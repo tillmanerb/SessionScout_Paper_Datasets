@@ -1,0 +1,495 @@
+,session_name,session_id,session_type,room_name,start_datetime,end_datetime,special_session_description,special_session_id
+0,Data Analytics & Information Systems (DAIS) Town Hall,,Town Hall,106 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,,1
+1,Quality Control & Reliability Engineering Town Hall,,Town Hall,105 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,2
+2,SHS - Society of Health Systems Town Hall,,Town Hall,Fulton | Renaissance Waverly Hotel,6/2/2025 12:00,6/2/2025 13:20,,3
+3,SEMS - Society of Engineering Management Town Hall,,Town Hall,117 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,,4
+4,Sustainable Development Town Hall,,Town Hall,118 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,,5
+5,Modeling & Simulation Town Hall,,Town Hall,110 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,6
+6,U.S. North Central Region Town Hall,,Town Hall,108 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,,7
+7,International (IOB) Town Hall,,Town Hall,108 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,,8
+8,U.S. Mid-Atlantic Region Town Hall,,Town Hall,101 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,,9
+9,U.S. South Central Region Town Hall,,Town Hall,108 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,10
+10,Construction Engineering & Management Town Hall,,Town Hall,Galleria | Renaissance Waverly Hotel,6/1/2025 16:30,6/1/2025 17:50,,11
+11,Operational Excellence Town Hall,,Town Hall,108 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,,12
+12,Engineering Economy Town Hall,,Town Hall,102 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,,13
+13,Work Systems & Services Town Hall (open to all),,Town Hall,108 | Cobb Galleria Centre,6/1/2025 13:30,6/1/2025 14:50,,14
+14,Logistics & Supply Chain Town Hall,,Town Hall,Lenox | Renaissance Waverly Hotel,6/1/2025 13:30,6/1/2025 14:50,,15
+15,IAB/Young Professionals Town Hall,,Town Hall,Kennesaw | Renaissance Waverly Hotel,6/2/2025 16:30,6/2/2025 17:50,,16
+16,Operations Research Town Hall,,Town Hall,Brayton | Renaissance Waverly Hotel,6/2/2025 15:00,6/2/2025 16:20,,17
+17,QCRE Best Track Paper Competition,,Special Session,105 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,18
+18,QCRE Best Student Paper Competition,,Special Session,105 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,19
+19,QCRE Student Interaction Session,,Special Session,105 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,,20
+20,QCRE Data Challenge Comeptition,,Special Session,116 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,21
+21,Advanced Data-Driven Methods in Smart Systems,0,Presentation,120 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+22,Advances in Quality Control with Data Driven Approaches,1,Presentation,120 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,
+23,Bayesian and Markov Models for Engineering Systems,2,Presentation,120 | Cobb Galleria Centre,6/1/2025 13:30,6/1/2025 14:50,,
+24,Bayesian and Markov Models for Engineering Systems II,3,Presentation,120 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,,
+25,"Gaussian Process and its Advances in Modeling, Prognosis, and Optimization",4,Presentation,120 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,
+26,Data Driven Analysis under Data Constraints,5,Presentation,105 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+27,Data-Driven Modeling and Monitoring for Smart Systems,6,Presentation,105 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,,
+28,Defect Detection in 3D Point Cloud Inspection,7,Presentation,105 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,,
+29,Emerging Methods in Vision-Based Decision Support,8,Presentation,105 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,
+30,Advances in Reinforcement Learning for Complex Systems,9,Presentation,116 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,,
+31,High-dimension and Large Scale Data Analysis for Manufacturing Systems,10,Presentation,116 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+32,Statistical Modeling and Optimization in Quality Analytics,11,Presentation,120 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+33,"Modeling, Monitoring and Control in Additive Manufacturing",12,Presentation,120 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,,
+34,"Modeling, Optimization, and Learning for Complex Systems",13,Presentation,120 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,,
+35,"Monitoring, Prognosis, and Maintenance in Manufacturing and Electric Vehicle Systems",14,Presentation,120 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,
+36,Failure and Maintenance Analysis for Complex Systems,15,Presentation,120 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,,
+37,Machine Learning and Statistical Techniques for Quality Assurance in Manufacturing,16,Presentation,105 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+38,Root Cause Analysis in Social and Engineering Applications,,Special Session,105 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,22
+39,Sequential Learning for Manufacturing,17,Presentation,105 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+40,Smart and Adaptive Process Control in Manufacturing and Food Systems,18,Presentation,105 | Cobb Galleria Centre,6/3/2025 15:00,6/3/2025 16:20,,
+41,"Physics-Informed Modeling, Monitoring, and Prediction",19,Presentation,116 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+42,Spatio-temporal Analysis in Engineering Applications,20,Presentation,116 | Cobb Galleria Centre,6/3/2025 15:00,6/3/2025 16:20,,
+43,Process Monitoring and Instrument Calibration,21,Presentation,120 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+44,Human-Centered Efficiency in Smart Systems,22,Presentation,120 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+45,Text based Analysis with Large Models,23,Presentation,120 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+46,Time-Series Modeling and Intelligent System Analytics,24,Presentation,120 | Cobb Galleria Centre,6/3/2025 15:00,6/3/2025 16:20,,
+47,Energy Systems Town Hall,,Town Hall,109 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,23
+48,Closing Workforce Gaps,25,Presentation,Stanhope | Renaissance Waverly Hotel,6/1/2025 8:00,6/1/2025 9:20,,
+49,"Orientation, Mentoring and Career Transition",26,Presentation,Ansley | Renaissance Waverly Hotel,6/1/2025 12:00,6/1/2025 13:20,,
+50,ISE Education and Sustainability,27,Presentation,Ansley | Renaissance Waverly Hotel,6/2/2025 8:00,6/2/2025 9:20,,
+51,Broadening Horizons in Industrial and Systems Engineering,28,Presentation,Ansley | Renaissance Waverly Hotel,6/2/2025 12:00,6/2/2025 13:20,,
+52,Identity Formation and Communication in the ISE Curriculum,29,Presentation,Ansley | Renaissance Waverly Hotel,6/3/2025 8:00,6/3/2025 9:20,,
+53,AI in Engineering Education,30,Presentation,Ansley | Renaissance Waverly Hotel,6/3/2025 12:00,6/3/2025 13:20,,
+54,Innovations in Engineering Education,31,Presentation,Ansley | Renaissance Waverly Hotel,6/3/2025 13:30,6/3/2025 14:50,,
+55,"Computational Approaches to Layout, Scheduling, and Strategic Infrastructure Planning",32,Presentation,Fulton | Renaissance Waverly Hotel,6/1/2025 12:00,6/1/2025 13:20,,
+56,Optimization of Stochastic Systems,33,Presentation,Brayton | Renaissance Waverly Hotel,6/1/2025 8:00,6/1/2025 9:20,,
+57,Applications of Stochastic Systems,34,Presentation,Brayton | Renaissance Waverly Hotel,6/1/2025 12:00,6/1/2025 13:20,,
+58,OR for Societal Good I,35,Presentation,Brayton | Renaissance Waverly Hotel,6/1/2025 13:30,6/1/2025 14:50,,
+59,OR for Societal Good II,36,Presentation,Brayton | Renaissance Waverly Hotel,6/1/2025 15:00,6/1/2025 16:20,,
+60,Optimization in Transportation,37,Presentation,Brayton | Renaissance Waverly Hotel,6/1/2025 16:30,6/1/2025 17:50,,
+61,Optimization Models for Logistics,38,Presentation,Andover | Renaissance Waverly Hotel,6/1/2025 8:00,6/1/2025 9:20,,
+62,Applications of Combinatorial Optimization,39,Presentation,Andover | Renaissance Waverly Hotel,6/1/2025 12:00,6/1/2025 13:20,,
+63,Analysis of Stochastic Systems,40,Presentation,Andover | Renaissance Waverly Hotel,6/1/2025 13:30,6/1/2025 14:50,,
+64,Integer Programming,41,Presentation,Andover | Renaissance Waverly Hotel,6/1/2025 15:00,6/1/2025 16:20,,
+65,OR for Societal Good III,42,Presentation,Andover | Renaissance Waverly Hotel,6/1/2025 16:30,6/1/2025 17:50,,
+66,Intersection of Operations Research and Machine Learning,43,Presentation,Waverly | Renaissance Waverly Hotel,6/1/2025 8:00,6/1/2025 9:20,,
+67,Models for Disaster Relief and Resilience,44,Presentation,Waverly | Renaissance Waverly Hotel,6/1/2025 12:00,6/1/2025 13:20,,
+68,Machine Learning and Optimization,45,Presentation,Brayton | Renaissance Waverly Hotel,6/2/2025 8:00,6/2/2025 9:20,,
+69,Enhancing Optimization Algorithms using Artificial Intelligence and Machine Learning,46,Presentation,Brayton | Renaissance Waverly Hotel,6/2/2025 12:00,6/2/2025 13:20,,
+70,Quantum Paradigms for Optimization and Sampling,,Special Session,Brayton | Renaissance Waverly Hotel,6/2/2025 13:30,6/2/2025 14:50,"Mathematical optimization and probabilistic sampling are indispensable components of modern decision-making, enabling people to rigorously model, analyze, and solve real-world problems in operations research, including logistics, finance, energy systems, and healthcare. Recently, quantum computing has gained attention in the OR community as a groundbreaking paradigm capable of solving complex computational problems faster than classical computers.
+
+In this special session, we aim to narrow the gap between theorists and practitioners in quantum optimization and sampling.  The session consists of four talks:
+
+Jiaqi Leng (Postdoctoral Researcher, UC Berkeley) and Lei Fan (Assistant Professor, University of Houston).  Quantum Hamiltonian Descent Algorithm for Nonlinear Optimization and Applications in Energy Systems
+Guanyang Wang (Assistant Professor, Rutgers University).  A quantum-inside-quantum Monte Carlo algorithm
+Ankit Kulshrestha (Senior Research Scientist, Fujitsu Research).  Looking in the future: Leveraging machine learning algorithms for quantum optimization
+Mohammadhossein Mohammadisiahroudi (Postdoctoral Research Associate, Lehigh University).  On Accelerating Optimization Methods by Quantum Linear Algebra",24
+71,Bridging the Gap between Academia and Industry,,Special Session,Brayton | Renaissance Waverly Hotel,6/2/2025 16:30,6/2/2025 17:50,"This panel aims to foster a discussion towards a better understanding of
+
+the current level of collaboration between academia and industry, highlighting the gap between where we are now and the potential for stronger collaboration, while acknowledging different expectations in both sectors,
+the challenges faced by cross-disciplinary teams when solving real-world problems,
+what can be done on both sides to close the gap in between.",25
+72,Infrastructure Network Resilience,47,Presentation,Andover | Renaissance Waverly Hotel,6/2/2025 8:00,6/2/2025 9:20,,
+73,Stochastic Optimization Methodology and Applications,48,Presentation,Andover | Renaissance Waverly Hotel,6/2/2025 12:00,6/2/2025 13:20,,
+74,"OR Applications in Drones, Electrified Transportation, and Power Distribution",49,Presentation,Andover | Renaissance Waverly Hotel,6/2/2025 13:30,6/2/2025 14:50,,
+75,Methodology and Applications of Online and Dynamic Decision Making,50,Presentation,Andover | Renaissance Waverly Hotel,6/2/2025 15:00,6/2/2025 16:20,,
+76,Optimization with Uncertainty,51,Presentation,Andover | Renaissance Waverly Hotel,6/2/2025 16:30,6/2/2025 17:50,,
+77,OR in Transportation and Logistics,52,Presentation,Brayton | Renaissance Waverly Hotel,6/3/2025 8:00,6/3/2025 9:20,,
+78,Applications of Game Theory and Learning,53,Presentation,Brayton | Renaissance Waverly Hotel,6/3/2025 13:30,6/3/2025 14:50,,
+79,Interdiction and Security,54,Presentation,Waverly | Renaissance Waverly Hotel,6/3/2025 8:00,6/3/2025 9:20,,
+80,Scheduling and Resource Allocation,55,Presentation,Waverly | Renaissance Waverly Hotel,6/3/2025 12:00,6/3/2025 13:20,,
+81,"OR Applications in Energy, Sustainability, & Resilience",,Special Session,Waverly | Renaissance Waverly Hotel,6/3/2025 13:30,6/3/2025 14:50,,26
+82,Industry Case Studies I,56,Presentation,Kennesaw | Renaissance Waverly Hotel,6/1/2025 8:00,6/1/2025 9:20,,
+83,Industry Case Studies 2,57,Presentation,Stanhope | Renaissance Waverly Hotel,6/1/2025 12:00,6/1/2025 13:20,,
+84,Professional Licensure for ISE’s,,Special Session,Stanhope | Renaissance Waverly Hotel,6/1/2025 13:30,6/1/2025 14:50,"Join our panel discussion to find out more about professional licensing for ISE's. Professional licensure for Industrial and Systems Engineers provides several key benefits:
+
+Recognition of Competence: Licensure demonstrates that an ISE has met specific educational and experience requirements, ensuring they possess the necessary knowledge and skills to practice in the field.
+Protection if the Public: Licensure protects the public by ensuring that engineers adhere to ethical standards and professional conduct, thereby reducing the risk of incompetence or malpractice.
+Marketability: Holding a professional license enhances an ISE's marketability and credibility to potential employers and clients, as it signifies a commitment to high standards and ongoing professional development.
+Legal Standing: Licensure provides legal recognition of an ISE's expertise, enabling them to engage in certain activities that may require licensure, such as signing off on engineering designs or serving as expert witnesses in legal proceedings.
+Global Mobility: In some cases, licensure can facilitate mobility across borders by allowing industrial engineers to practice internationally, provided they meet equivalent licensure requirements in other jurisdictions.
+Overall, professional licensure enhances the reputation, credibility, and opportunities for ISE's while safeguarding the public interest. Join our panel discussion to hear how licensure could fit into your career path and then visit us at the NCEES booth for a free practice exam!
+",27
+85,Women in Industrial & System Engineering:  How to be an advocate for women in the workplace,,Special Session,Stanhope | Renaissance Waverly Hotel,6/1/2025 15:00,6/1/2025 16:20,"In today’s environment with Diversity, Equity and Inclusion being challenged and historical events are slowly being removed this becomes a challenging environment for women and minorities in the workplace. Come and join our panel discussion to understand how we can advocate and support our employees. This will be a great discussion not only for women but men to understand how we can help at all levels of leadership and understand the current or potential impacts.",28
+86,Professional Development I,58,Presentation,Stanhope | Renaissance Waverly Hotel,6/1/2025 16:30,6/1/2025 17:50,,
+87,Panel on ISE Careers in Consulting,,Special Session,Kennesaw | Renaissance Waverly Hotel,6/2/2025 8:00,6/2/2025 9:20,"Tens of thousands of ISEs chose to work in the consulting industry. Many begin their careers immediately after receiving an undergraduate or master’s degree. Others spending years working in another industry before transitioning to consulting. This session will be a panel discussion on the diverse careers ISEs can have working in the Consulting Industry. Panelists will describe how they got into consulting, their different experiences, some of their lessons learned and take questions from the audience.",29
+88,ISE Tools,59,Presentation,Kennesaw | Renaissance Waverly Hotel,6/2/2025 12:00,6/2/2025 13:20,,
+89,Professional Development 2,60,Presentation,Kennesaw | Renaissance Waverly Hotel,6/2/2025 13:30,6/2/2025 14:50,,
+90,Strategies for Finding a Work-Life Balance,,Special Session,Kennesaw | Renaissance Waverly Hotel,6/2/2025 15:00,6/2/2025 16:20,"In today’s fast-paced and hyper-connected world, achieving a sustainable work-life balance has become a critical challenge for professionals. This panel session will explore actionable strategies and innovative approaches for balancing the demands of work and personal life.  ISE leaders of varied backgrounds will share their personal experiences describing what has and hasn’t worked for them.  
+
+The session will also examine the role of leadership in modeling work-life balance and how organizational policies, such as hybrid work models and wellness programs, can support employees in achieving harmony between their professional and personal responsibilities.
+",30
+91,Career and Personal Development Decisions,,Special Session,Kennesaw | Renaissance Waverly Hotel,6/3/2025 8:00,6/3/2025 9:20,"This Special Session will consist of a panels of industry members spanning the most important career decisions engineers encounter, presented as a collaboration between the IAB and YP organizations. The first panel will include both early and late career professionals, with a focus on career planning and goal setting. Topics will include “How to prepare for your first job” and “How to transition from College to Career.” The second panel will focus on the process of successfully executing the first job change after graduating. Topics will include “How to know when the time is right” and “How to job hunt with industry experience”. Panelists will be young professionals who have recently completed their first job switch after graduating. The third panel will consist of Directors and VPs who will give advice on transitioning into upper management roles. Topics will include “Building visibility” and “Pros/Cons of additional degrees and certifications”.",31
+92,Academic Research Related to Industry I,61,Presentation,Kennesaw | Renaissance Waverly Hotel,6/3/2025 12:00,6/3/2025 13:20,,
+93,Advances In Machine Learning Methods I,62,Presentation,106 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+94,Advances In Machine Learning Methods II,63,Presentation,106 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,
+95,DAIS Case Study Competition,,Special Session,106 | Cobb Galleria Centre,6/1/2025 13:30,6/1/2025 14:50,,32
+96,DAIS Web/Mobile App Competition,,Special Session,106 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,,33
+97,AI Methods for Wildfire and Disaster Management,64,Presentation,106 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,
+98,AI Methods for Complex Systems I,65,Presentation,113 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+99,AI Methods for Complex Systems II,66,Presentation,113 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,
+100,AI Methods for Complex Systems III,67,Presentation,113 | Cobb Galleria Centre,6/1/2025 13:30,6/1/2025 14:50,,
+101,AI Methods for Complex Systems IV,68,Presentation,113 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,,
+102,Biological and Agricultural Data Analysis,69,Presentation,113 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,
+103,AI and Analytics for Infrastructure Operations and Maintenance,70,Presentation,114 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+104,Advances in Statistical and Physics-Informed Modeling,71,Presentation,114 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,
+105,AI for System Analysis,72,Presentation,114 | Cobb Galleria Centre,6/1/2025 13:30,6/1/2025 14:50,,
+106,ML for Risk Management and Cybersecurity,73,Presentation,114 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,
+107,AI-Driven Innovation in Enterprise and Engineering Systems,74,Presentation,106 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+108,DAIS Best Track Paper Competition,75,Presentation,106 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,,
+109,DAIS Best Student Paper Competition,,Special Session,106 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,,34
+110,Advanced AI Solutions in Health and Diagnostics,76,Presentation,106 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,
+111,Generative Model and Its Application,77,Presentation,113 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+112,AI Methods for Healthcare I,78,Presentation,113 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,,
+113,AI Methods for Healthcare II,79,Presentation,113 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,,
+114,AI Methods for Healthcare III,80,Presentation,113 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,
+115,Trustworthy and Adaptive AI for Critical Systems I,81,Presentation,114 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+116,Trustworthy and Adaptive AI for Critical Systems II,82,Presentation,114 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,,
+117,Complex Systems and Scientific Discovery I,83,Presentation,114 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,,
+118,Complex Systems and Scientific Discovery II,,Special Session,114 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,35
+119,AI Methods for Healthcare IV,84,Presentation,113 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+120,AI Methods for Healthcare V,85,Presentation,113 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+121,AI Methods for Healthcare VI,86,Presentation,113 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+122,AI Methods for Healthcare VII,87,Presentation,113 | Cobb Galleria Centre,6/3/2025 15:00,6/3/2025 16:20,,
+123,Machine Learning for Time Series I,88,Presentation,114 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+124,Machine Learning for Time Series II,89,Presentation,114 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+125,Machine Learning Applications,90,Presentation,114 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+126,LLM and Its Application,91,Presentation,106 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+127,Extended Reality and ML Applications,92,Presentation,106 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+128,Simulation for Planning and Intervention in Healthcare,93,Presentation,Fulton | Renaissance Waverly Hotel,6/1/2025 8:00,6/1/2025 9:20,,
+129,Lean Approaches for Healthcare Transformation,94,Presentation,Fulton | Renaissance Waverly Hotel,6/1/2025 15:00,6/1/2025 16:20,,
+130,Lean Principles and Process Improvement in Healthcare Delivery,95,Presentation,Fulton | Renaissance Waverly Hotel,6/1/2025 16:30,6/1/2025 17:50,,
+131,Improving Healthcare Delivery through Adaptive Strategies,96,Presentation,Ascot | Renaissance Waverly Hotel,6/1/2025 8:00,6/1/2025 9:20,,
+132,Optimization Strategies for Sustainable Healthcare Systems,97,Presentation,Ascot | Renaissance Waverly Hotel,6/1/2025 12:00,6/1/2025 13:20,,
+133,Analytics and Modeling to Inform Health Decision-Making,98,Presentation,Ascot | Renaissance Waverly Hotel,6/1/2025 13:30,6/1/2025 14:50,,
+134,Modeling and Simulation in Critical Care Delivery,99,Presentation,Ascot | Renaissance Waverly Hotel,6/1/2025 15:00,6/1/2025 16:20,,
+135,Challenges and opportunities in health systems research in the era of AI,,Special Session,Ascot | Renaissance Waverly Hotel,6/1/2025 16:30,6/1/2025 17:50,Prestigious researchers will join this panel to discuss the challenges and opportunities in health systems research based on their experience.,36
+136,AI and Data Analytics for Healthcare,100,Presentation,Ascot | Renaissance Waverly Hotel,6/2/2025 8:00,6/2/2025 9:20,,
+137,IISE Transactions on Healthcare Systems Engineering: Meeting the Editors,,Special Session,Ascot | Renaissance Waverly Hotel,6/2/2025 15:00,6/2/2025 16:20,"This special session will invite editorial board members of the IISE Transactions on Healthcare Systems Engineering to share insights on how to get published in this flagship journal of health systems engineering research. 
+",37
+138,Informing Cancer Control Policy Through Mathematical Modeling: The Cancer Intervention and Modeling Surveillance Modeling (CISNET) Experience,,Special Session,Ascot | Renaissance Waverly Hotel,6/2/2025 16:30,6/2/2025 17:50,"This presentation focuses on the pivotal role of mathematical modeling in optimizing breast cancer screening strategies, with a particular emphasis on the University of Wisconsin Breast Cancer Simulation Model (UWBCS), a member of the National Cancer Institute’s Cancer Intervention and Surveillance Modeling Network (CISNET). Research efforts in this area were initiated with the objective of developing personalized mammography screening schedules tailored to a woman’s individual risk profile and prior screening history. To this end, a finite-horizon partially observable Markov decision process (POMDP) model was formulated and solved optimally. This presentation will provide an overview of the UWBCS model, including its development, key components, calibration processes, and real-world policy impacts, highlighting the profound influence that rigorous mathematical modeling can exert on public health decision-making.",38
+139,Advanced Analytical Approaches in Health Risk and Diagnostic Modeling,101,Presentation,Fulton | Renaissance Waverly Hotel,6/2/2025 8:00,6/2/2025 9:20,,
+140,Machine Learning Applications for Intelligent Healthcare,102,Presentation,Fulton | Renaissance Waverly Hotel,6/2/2025 13:30,6/2/2025 14:50,,
+141,Data-Driven Decision Support for Healthcare,103,Presentation,Fulton | Renaissance Waverly Hotel,6/2/2025 15:00,6/2/2025 16:20,,
+142,Innovative Approaches to Healthcare Personnel Scheduling,104,Presentation,Fulton | Renaissance Waverly Hotel,6/2/2025 16:30,6/2/2025 17:50,,
+143,Advancing Public Health Systems through Engineering Innovation,105,Presentation,Fulton | Renaissance Waverly Hotel,6/3/2025 8:00,6/3/2025 9:20,,
+144,Approaches to Public Health Access and Risk Management,106,Presentation,Fulton | Renaissance Waverly Hotel,6/3/2025 12:00,6/3/2025 13:20,,
+145,Innovations in Healthcare Delivery and Clinical Operations,107,Presentation,Fulton | Renaissance Waverly Hotel,6/3/2025 13:30,6/3/2025 14:50,,
+146,Artificial Intelligence for Healthcare Solutions,108,Presentation,Fulton | Renaissance Waverly Hotel,6/3/2025 15:00,6/3/2025 16:20,,
+147,Analytics for Pandemic Response and Recovery,109,Presentation,Ascot | Renaissance Waverly Hotel,6/3/2025 8:00,6/3/2025 9:20,,
+148,Predictive Analytics for Improving Health Outcomes,110,Presentation,Ascot | Renaissance Waverly Hotel,6/3/2025 12:00,6/3/2025 13:20,,
+149,Predictive Modeling and Decision Support in Disease Management,111,Presentation,Ascot | Renaissance Waverly Hotel,6/3/2025 13:30,6/3/2025 14:50,,
+150,Human-Centered Design and Technology Integration in Healthcare,112,Presentation,Ascot | Renaissance Waverly Hotel,6/3/2025 15:00,6/3/2025 16:20,,
+151,Operational Excellence Session 2,113,Presentation,101 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+152,Operational Excellence Session 3 - Healthcare Applications,114,Presentation,101 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,,
+153,Operational Excellence Session 4,115,Presentation,101 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,,
+154,Operational Excellence Session 5,,Special Session,101 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,39
+155,Operational Excellence Session 6,116,Presentation,101 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+156,Operational Excellence Session 7,117,Presentation,101 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+157,Human Factors & Ergonomics - Automated Vehicle and Human Interaction,118,Presentation,112 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+158,Human Factors & Ergonomics - Exoskeleton,119,Presentation,112 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,
+159,Human Factors & Ergonomics - Extended Reality Session 1,120,Presentation,112 | Cobb Galleria Centre,6/1/2025 13:30,6/1/2025 14:50,,
+160,Human Factors & Ergonomics - Human and AI,121,Presentation,112 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,,
+161,Human Factors & Ergonomics - Cognitive Workload,122,Presentation,112 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,
+162,Human Factors & Ergonomics - Interface Design and Usability,123,Presentation,118 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+163,Human Factors & Ergonomics - Human Behavior Monitoring and Assessment,124,Presentation,118 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,
+164,Human Factors & Ergonomics - Experiences and Trust in Technology,125,Presentation,118 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,,
+165,Human Factors & Ergonomics - Physical Ergonomics #1,126,Presentation,112 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,,
+166,Human Factors & Ergonomics - Human-Centered Approach,127,Presentation,112 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,
+167,Human Factors & Ergonomics - Safety,128,Presentation,112 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,,
+168,Human Factors & Ergonomics - Machine Learning in Human Systems,129,Presentation,118 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,,
+169,Human Factors & Ergonomics - AI and Data-Driven Research,130,Presentation,112 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+170,Technology and Psychology in Ergonomic Research,131,Presentation,118 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+171,Human Factors & Ergonomics - Workload Measurements,132,Presentation,112 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+172,Human Factors & Ergonomics - Extended Reality Session 2,133,Presentation,112 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+173,Human Factors & Ergonomics - Physical Ergonomics #2,134,Presentation,118 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+174,"Human Factors & Ergonomics - Applied Ergonomics for Healthcare, Education, and High-Stakes Work",135,Presentation,112 | Cobb Galleria Centre,6/3/2025 15:00,6/3/2025 16:20,,
+175,Human Factors & Ergonomics - Human-Robot Interaction,136,Presentation,112 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,,
+176,Human Factors & Ergonomics - Driver Behavior and Automated Vehicle,137,Presentation,112 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+177,Advanced Data Analytics for Building and Battery Energy Systems,138,Presentation,109 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+178,Optimization and Decision Models for Wind Farm Operations and Maintenance,139,Presentation,109 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,
+179,"Energy Policy, Incentives, and Strategic Implementation for a Sustainable Future",140,Presentation,109 | Cobb Galleria Centre,6/1/2025 13:30,6/1/2025 14:50,,
+180,"Innovative Design, Optimization, and Analytics for Emerging Renewable Energy Technologies",141,Presentation,109 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,,
+181,Innovative Approaches to Sustainable Energy and Environmental Impact,142,Presentation,109 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,
+182,Optimization Algorithms in Power System Operations and Planning,143,Presentation,109 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+183,Energy Systems Special Session: Best Student Paper Competition,,Special Session,109 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,,40
+184,Energy Systems Special Session: The PG&E Energy Analytics Challenge,,Special Session,109 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,"This special session will include technical presentations from the top-performing teams in the 2024-2025 PG&E Energy Analytics challenge, sponsored by Pacific Gas & Electric Company (PG&E), and co-organized by the IISE Energy Systems Division (ESD) and the INFORMS Quality, Statistics and Reliability (QSR) Section. The competition challenges individuals and teams to design an analytics-based solution to a practical energy systems’ challenge. This year’s challenge focused on forecasting electricity loads for a specific area within the CAISO system using multi-year historical load and exogenous weather information. The session will begin by an introduction of the challenge, given by a PG&E expert and the competition organizers, followed by technical talks by the top-performing teams.
+
+
+This special session will include technical presentations from the top-performing teams in the 2024-2025 PG&E Energy Analytics challenge, sponsored by Pacific Gas & Electric Company (PG&E), and co-organized by the IISE Energy Systems Division (ESD) and the INFORMS Quality, Statistics and Reliability (QSR) Section. The competition challenges individuals and teams to design an analytics-based solution to a practical energy systems’ challenge. This year’s challenge focused on forecasting electricity loads for a specific area within the CAISO system using multi-year historical load and exogenous weather information. The session will begin by an introduction of the challenge, given by a PG&E expert and the competition organizers, followed by technical talks by the top-performing teams.
+
+
+",41
+185,Advanced Optimization Methods for Critical Energy Systems,144,Presentation,109 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,,
+186,"Smart Microgrids for Resilience, Sustainability, and Clean Energy Transition",145,Presentation,114 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,,
+187,Optimizing Electric Mobility Infrastructure for Intermodal and Net-Zero Futures,146,Presentation,109 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+188,Innovative Modeling and AI Applications for Sustainable Energy Systems,147,Presentation,109 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+189,"AI and Simulation for Energy Forecasting, Infrastructure Planning, and System Insights",148,Presentation,109 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+190,AI-Driven Optimization and Forecasting for Decarbonized Energy Systems,149,Presentation,109 | Cobb Galleria Centre,6/3/2025 15:00,6/3/2025 16:20,,
+191,Manufacturing and Environmental Economics,150,Presentation,104 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+192,Applications of Engineering Economy in Industry,,Special Session,104 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,"Panelists talking about the applications and future of the engineering economy, and the impact of new tools and software on engineering economy",42
+193,Economic Modeling and Risk in Decision-Making,151,Presentation,104 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,
+194,Past Wellington Award Speech,,Special Session,115 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,43
+195,Infrastructure and Transportation Economics,152,Presentation,103 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+196,Economics of Education and Institutional Analysis,153,Presentation,103 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+197,Emerging Assets and Digital Economy,154,Presentation,103 | Cobb Galleria Centre,6/3/2025 15:00,6/3/2025 16:20,,
+198,Modeling & Simulation - Agriculture and Environmental,155,Presentation,110 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+199,Applications of AI/ML and Simulation -2,,Special Session,110 | Cobb Galleria Centre,6/1/2025 13:30,6/1/2025 14:50,,44
+200,Applications of AI/ML and Simulation,156,Presentation,110 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,,
+201,Modeling & Simulation - Data Analytics,157,Presentation,110 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,
+202,Modeling & Simulation - Defense,158,Presentation,110 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+203,Panel discussion on Discrete Event Simulation use in industry,,Special Session,117 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,"Discussion of Discrete Event Simulation use in industry.  Will explore the types of questions industry is answering using DES,  How companies organize their DES modelers and the pros and cons of this approach, software learning curve, typical project objective and duration.  Animation vs Simulation does your customer know the difference?  There will be an opportunity for attendees to ask questions of the panel.",45
+204,Modeling & Simulation - Digital Twins,159,Presentation,110 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,,
+205,Modeling and Simulation Workshop 1- Arena and FlexSim,,Special Session,117 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,"Title:Getting the most out of your Arena simulation model with data analytics tools
+Abstract:Learn how to integrate your Arena simulation model with data analytics tools. Discover the built-in tools to integrate with Excel and other external data sources. See how to use data visualization tools to display results that go beyond the standard reports. Learn the basics of using the Arena object model to programmatically interact with your simulation model via Python opening the doors to using external Python libraries for machine learning, optimization, and more.
+Presenter: Nathan Ivey, Arena, Rockwell Automation
+ 
+Title:From Manual to Automated: Leveraging Autodesk FlexSim for Factory Simulation
+Abstract: Design, improve, manage, and optimize operations through digital factory simulation using FlexSim from Autodesk. Using an example that compares manual and automated manufacturing approaches, this workshop demonstrates FlexSim’s powerful modeling and analysis capabilities including interoperability with AutoCAD and other Autodesk products, flexible automated pathfinding navigation, downtime management, versatile logic building, informative KPI dashboards, and much more. The workshop will also illustrate FlexSim’s diverse application domains beyond manufacturing and highlight some of the resources available to learn FlexSim.
+Presenters: Trent Richards and Allen Greenwood, FlexSim, Autodesk",46
+206,Modeling & Simulation - Energy,160,Presentation,110 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,,
+207,Modeling & Simulation - Engineering Management,161,Presentation,110 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,
+208,Modeling & Simulation - Epidemiology,162,Presentation,110 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,,
+209,Modeling & Simulation - Manufacturing,163,Presentation,116 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,
+210,Modeling and Simulation Workshop 2 - Simio and AnyLogic,,Special Session,117 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,"itle: Using Simio's Data-Driven Data-Generated Approach to Develop, Maintain, and Operate Process Digital Twins
+Abstract: This presentation explores Simio’s data-driven, data-generated approach to developing, maintaining, and applying process digital twins. While digital twins are widely used in manufacturing, they are equally valuable in other process-driven environments such as warehousing, healthcare operations, and service systems. We share technical insights and practical examples highlighting Simio’s modeling methodologies and tools for digital twin implementation. Key topics include custom objects, data integration through connectors, Simio Processes, and scripting support. Additionally, we introduce Simio University, a training platform that supports users in learning Simio modeling and development.
+Presenter: Dr. Jeff Smith, Simio LLC
+ 
+Title: Modern Methods, Languages, and Use Cases in Simulation Modeling
+Abstract: A workshop from the vendor of AnyLogic – an agnostic multi-method simulation software with the largest worldwide user community. Based on AnyLogic usage statistics, we will show which modeling methods, techniques, and languages are most used today by the industry. This includes DES (process flowcharts), Agent-based modeling, Statecharts, System Dynamics, GIS-based modeling, and others. We will also talk about the recent (and very positive) shift from the project-based usage of simulation to operational use and, therefore, longer lifecycles of models (digital twinning, etc.); we will present some use cases and go through the new requirements to simulations. Finally, we will touch the current relationship of Simulation and AI: what worked, what did not work, and what to expect.
+",47
+211,Modeling & Simulation - Transportation,164,Presentation,110 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+212,Modeling & Simulation - Optimization,165,Presentation,110 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+213,Modeling & Simulation - Scheduling,166,Presentation,110 | Cobb Galleria Centre,6/3/2025 15:00,6/3/2025 16:20,,
+214,Approaches to Sustainable Energy and Resource Management (SDG 7),167,Presentation,116 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+215,Innovative Strategies for Responsible Production (SDG 12),168,Presentation,119 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+216,The Industrial Engineer's Sustainability Role in the Changing Political Environment,,Special Session,119 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,"As an Industrial and Systems Engineer looking to help mitigate your company or community’s impact on Climate Change, how do you navigate the evolving landscape of sustainability, ESG, and DEI efforts, as the new U.S. federal administration challenges these initiatives while state governments and the European Union are increasingly mandating sustainability reporting. This session will explore a renewed focus on reducing energy, water, and material waste while lowering risk, placing industrial and systems engineers in pivotal roles driving sustainable practices. Engage with experts from the U.S., Europe, and Mexico to uncover strategies for resilience and innovation in this complex environment.
+
+Vincent Hargaden, PhD, Head of School, University College Dublin, School of Mechanical & Materials Engineering,
+
+Jesús Urzúa González, Director Programa de Ingeniería Industrial y de Sistemas, Escuela de Ingeniería y Ciencias, Tecnológico de Monterrey
+
+Amin Esmaeili, PhD, PMP, Director of Georgia Industrial Assessment Center (Geo-IAC) and Co-Director of Southeastern Center of Excellence (SCoE), Kennesaw State University",48
+217,Data-Driven Innovations for a Sustainable and Equitable Future (SDG 9),169,Presentation,119 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,
+218,Innovative Solutions for Water Sustainability and Management (SDGs 6 & 14),170,Presentation,118 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+219,Innovative Solutions for Sustainable Logistics (SDG 9),171,Presentation,119 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+220,Annual Volunteer Project Debrief and Recommendations,,Special Session,118 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,"Join us for the Annual IISE Volunteer Project debriefing!  Meals on Wheels America is a nationwide organization with over 5,000 community-based programs serving 2.2 million seniors annually. Neighborhood Meals on Wheels in Sugar Hill, Georgia, serves over 200 seniors daily with freshly prepared lunches. There are two teams of ISEs volunteers: one to provide strategic consulting for their new 6,200-square-foot space and another to assist with food preparation and facility setup. They will share their experiences, recommendations, and insights on improving processes and enhancing the volunteer experience. Whether or not you participated in the project, your questions and suggestions are encouraged. 
+",49
+221,"Global Sustainability Leadership: The Interplay of Policy, Education, and Technology",172,Presentation,119 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,
+222,Revisiting the Sustainable Development Goals Two-thirds of the way to 2030,,Special Session,119 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,"Revisit the Sustainable Development Goals –a shared blueprint for peace and prosperity, for people and the planet, now and into the future – ten years after their 2015 approval by almost all the worlds’ nations.  Do you know what the 17 Goals are and how they relate to each other, how things have changed since their approval, and what remains to be done? Most importantly what impact do they have on you personally and professionally as an Industrial and Systems Engineer?  Join us for an interactive workshop providing context for your career and the IISE Sustainable Development Track.
+",50
+223,Critical Issues in Agriculture and Food Sustainability (SDG 2),173,Presentation,118 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+224,Human Factors & Ergonomics - Technology Integration and Workplace Innovation,174,Presentation,114 | Cobb Galleria Centre,6/3/2025 15:00,6/3/2025 16:20,,
+225,Agricultural Sustainable Energy Innovations (SDG 7 & 2),175,Presentation,118 | Cobb Galleria Centre,6/3/2025 15:00,6/3/2025 16:20,,
+226,Innovative Approaches to Urban Planning and Sustainable Mobility (SDG 11),176,Presentation,119 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+227,The Future of Urban Resilience and Smart City Innovation (SDG 11),177,Presentation,119 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+228,Driving Gender Equality: ISEs as Change Makers (SDG 5),,Special Session,119 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,"Join us for an empowering workshop where Industrial and Systems Engineers unite to advance Gender Equity (SDG 5). This session will explore actionable strategies to promote gender equality within our organizations and workplaces. We'll discuss how men can actively support as allies and share best practices tailored to the current political climate. This workshop promises to inspire and equip attendees with practical tools to drive meaningful change towards gender equity.
+",51
+229,Approaches to Carbon Neutrality and Climate Change Mitigation (SDG 13),178,Presentation,119 | Cobb Galleria Centre,6/3/2025 15:00,6/3/2025 16:20,,
+230,Systems Engineering Applications,179,Presentation,Ansley | Renaissance Waverly Hotel,6/1/2025 8:00,6/1/2025 9:20,,
+231,Systems Engineering in Manufacturing,180,Presentation,Ansley | Renaissance Waverly Hotel,6/1/2025 13:30,6/1/2025 14:50,,
+232,Systems Engineering in Safety and Risk Management,181,Presentation,Ansley | Renaissance Waverly Hotel,6/1/2025 16:30,6/1/2025 17:50,,
+233,Model-Based Systems Engineering,182,Presentation,Highlands Ballroom | Renaissance Waverly Hotel,6/2/2025 12:00,6/2/2025 13:20,,
+234,Teaching Systems Design to Industrial Engineers,,Special Session,Highlands Ballroom | Renaissance Waverly Hotel,6/2/2025 13:30,6/2/2025 14:50,"The panelists will address the challenge of teaching systems design to IE's from three different perspectives: teaching undergraduates, teaching MS/PhD students, and teaching practicing IEs. With collectively over 100 years of experience,the panel promises to be lively and stimulating .",52
+235,Emerging Computing Technologies in Systems Engineering,183,Presentation,Highlands Ballroom | Renaissance Waverly Hotel,6/2/2025 15:00,6/2/2025 16:20,,
+236,Systems Engineering and Decision Support,184,Presentation,Highlands Ballroom | Renaissance Waverly Hotel,6/2/2025 16:30,6/2/2025 17:50,,
+237,Systems of Systems (SoS),185,Presentation,Highlands Ballroom | Renaissance Waverly Hotel,6/3/2025 8:00,6/3/2025 9:20,,
+238,Systems Engineering In the ISE Curriculum,186,Presentation,Highlands Ballroom | Renaissance Waverly Hotel,6/3/2025 12:00,6/3/2025 13:20,,
+239,Digitalization within Systems Engineering,,Special Session,Highlands Ballroom | Renaissance Waverly Hotel,6/3/2025 13:30,6/3/2025 14:50,"With the rise in popularity of “Digital Engineering” and model-based systems engineering, traditional industrial and systems engineering principles and philosophies such as process improvement and lean thinking are often pushed to the side. In this session, join invited and selected speakers as they present on how they are taking wholistic approaches to integrate people, processes, technology, and capabilities to digitalize their systems engineering practices.
+
+
+Authors",53
+240,Healthcare and Service Optimization,187,Presentation,108 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+241,Operational Excellence Session 1,188,Presentation,108 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,
+242,Special Session Workshop: Integration of Technology and People — a People-Centric Approach to Industry 4.0,189,Presentation,108 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+243,Technology Integration and Workforce Development,190,Presentation,108 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,,
+244,Work Systems and More,191,Presentation,108 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+245,Manufacturing and Industrial Engineering,192,Presentation,108 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,
+246,Cognitive Workload and Efficiency,193,Presentation,108 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+247,Operations Management,194,Presentation,111 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+248,Change Management,195,Presentation,117 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+249,KEEN workshop – Integrating the Entrepreneurial Mindset in Industrial Engineering Education and Training,,Special Session,111 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,"This workshop will explore how Engineering Entrepreneurial Mindset (EM) principles: Curiosity, Connections, and Creating Value (the 3Cs) can be applied to the design and delivery of Industrial and Systems Engineering (ISE) courses and professional training programs. ",54
+250,Safety Training and Organizational Resilience,196,Presentation,111 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,
+251,"AI, Behavior, and Organizational Effectiveness",197,Presentation,117 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,,
+252,Decision Analytics for Service and Supply Chain Optimization,198,Presentation,117 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,
+253,Project Management,199,Presentation,111 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+254,AI-Driven Continuous Improvement,,Special Session,111 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,"This session's presentations are formatted as a workshop. 
+
+Emerging Trends: The Role of AI in Continuous Improvement
+
+Authors: Elizabeth Cudney, Raja Jayaraman, and Sandra Furterer
+
+Abstract: As artificial intelligence (AI) continues to evolve, its impact on continuous improvement initiatives is becoming increasingly significant. This session explores emerging trends in AI applications within Lean, Six Sigma, and other process optimization methodologies. We will discuss how AI-driven tools enhance data-driven decision-making, automate root cause analysis, and improve predictive capabilities for quality and efficiency improvements. Case studies and real-world examples will highlight how organizations are integrating AI into their continuous improvement efforts to drive innovation, reduce waste, and enhance operational performance.
+
+ 
+
+AI as Your Fifth Team Member
+
+Authors: Chad Laux, John Springer, and Seyi Ogunmodede
+
+Abstract: Over the past 18 months, the advances in artificial intelligence have been unprecedented.  How this new technology may be incorporated is of great importance and concern. What are AI capabilities that the practitioner may take advantage of? What are some of the ethical considerations of AI adoption and usage? In this talk, how AI may assist you as an asset, will be discussed. Specific topics include a brief history of AI, AI tool sets, AI ethical concerns, and AI tasking in Lean.
+
+ 
+
+AI-Enabled Value Stream Mapping: Leveraging AI for Process Optimization
+
+Authors: Elizabeth Cudney and Adil Dalal
+
+Abstract: Value stream mapping (VSM) is a critical tool for identifying inefficiencies and driving process improvements. In this interactive workshop, participants will explore how AI can enhance VSM by generating insights that identify bottlenecks and optimize future-state processes. Using a hands-on approach, attendees will work with a current state value stream map and learn how to develop AI-powered prompts to analyze constraints, suggest improvement opportunities, and support data-driven decision-making. This session will provide a framework for integrating AI into VSM to improve process efficiency, reduce waste, and create more agile operations.
+",55
+255,Decision-Making,200,Presentation,111 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,,
+256,Innovation Adoption and Model Management,,Special Session,111 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,Participants will: ,56
+257,Data-Driven Systems for Quality and Operational Excellence,201,Presentation,111 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+258,Panel: Community Organizations and Human-Centered Design: Challenges and Opportunities at the Intersection,,Special Session,117 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,"This panel aims to discuss the challenges and opportunities at the intersection of community organizations and human-centered design. Community organizations play a crucial role in addressing local needs and implementing interventions that involve the design and delivery of products, processes, policies, places, and pedagogy (5Ps), but they face significant challenges in identifying resources and translating needs and evidence into design solutions. Human factors engineering (HFE) can contribute to addressing these challenges through structured frameworks, tools, and methods for human-centered design. However, HFE researchers and practitioners might lack know-how about best practices to engage in the community and address these challenges. This panel aims to bring together HFE experts in design, user experience, and entrepreneurial thinking; accessibility experts with industry experience; a community outreach expert; and partners from community organizations to discuss key challenges and needs of community partners in the design and delivery of 5Ps, and how HFE researchers and industry experts can address these challenges.",57
+259,Product Development Strategies,202,Presentation,117 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+260,M&D Best Student Paper Award Finalists,203,Presentation,102 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+261,Machine Learning for Manufacturing 1,204,Presentation,102 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,
+262,Track Keynote Session on Future Manufacturing,,Special Session,102 | Cobb Galleria Centre,6/1/2025 13:30,6/1/2025 14:50,"The technological foundations of advanced manufacturing continue to rapidly evolve as ubiquitous sensing, cloud computing and storage, and next generation controllers are introduced into the manufacturing ecosystem. This talk presents some of the technical concepts and business models that will enable new technologies and capabilities in the manufacturing sector to be rapidly deployed throughout the U.S. industrial base. Insight will be presented into next generation resilient production operations and business models that favor local and point of assembly manufacturing. Democratization of manufacturing efforts will be highlighted as an exemplar of efforts at the Advanced Manufacturing Pilot Facility at Georgia Tech by focusing on the integration of real-time sensor data via edge/fog/cloud operations as applied to state-of-the-art hot wire laser hybrid (additive and subtractive) manufacturing processes. Both design and manufacturing issues will be addressed as they relate to improved control of next generation production systems. The hybrid system is an ideal platform for digital integration as it combines newer metal additive processes with much more classical machining capabilities. The talk will conclude with a discussion of how rapidly advancing technical innovations will be propagated throughout the manufacturing enterprise, ensuring a state-of-the-art manufacturing economy. This will provide opportunities for businesses of all sizes and democratize advanced manufacturing technologies throughout the United States.",58
+263,Manufacturing USA Institutes Panel,,Special Session,102 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,"As the U.S. manufacturing sector faces increasing global competition, workforce transitions, and rapid technological change, cross-sector collaboration has never been more critical. This panel will explore how national manufacturing institutes, industrial partners, and government agencies are working together to accelerate innovation, strengthen domestic supply chains, and translate cutting-edge research into real-world manufacturing solutions. Panelists will share insights on public-private partnership models, technology transition pathways, and strategies to scale innovation from pilot to production. Attendees will gain perspectives on emerging priorities in areas such as digital transformation, cybersecurity, energy resilience, and workforce upskilling — and how these efforts are being coordinated across organizational boundaries.
+
+ ",59
+264,Machine Learning for Manufacturing 2,205,Presentation,102 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,
+265,Additive Manufacturing 1,206,Presentation,115 | Cobb Galleria Centre,6/1/2025 8:00,6/1/2025 9:20,,
+266,Additive Manufacturing 2,207,Presentation,115 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,
+267,Intelligence Manufacturing 1,208,Presentation,115 | Cobb Galleria Centre,6/1/2025 13:30,6/1/2025 14:50,,
+268,Intelligence Manufacturing 2,209,Presentation,115 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,,
+269,Manufacturing & Design Board Meeting,,Special Session,116 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,60
+270,Additive Manufacturing 3,210,Presentation,115 | Cobb Galleria Centre,6/1/2025 16:30,6/1/2025 17:50,,
+271,Manufacturing Systems Engineering 1,211,Presentation,116 | Cobb Galleria Centre,6/1/2025 13:30,6/1/2025 14:50,,
+272,Manufacturing Systems Engineering 2,212,Presentation,116 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,,
+273,Intelligence Manufacturing 3,213,Presentation,102 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+274,Manufacturing & Design Track Town Hall Meeting,,Town Hall,102 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,"Work in small groups to integrate EM elements into a course or training session of their choice, whether in academia or industry ",61
+275,Achieving Zero Incidents: The World Class Manufacturing Safety Approach,,Special Session,102 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,"The World Class Manufacturing (WCM) methodology has been widely adopted across industries to drive cost savings and efficiency improvements. While WCM is well known for its impact on operational excellence, its role in occupational health and safety is often overlooked. The WCM safety pillar embraces a ZERO mindset, meaning the ultimate goal is zero safety incidents. It provides a structured, step-by-step methodology to systematically eliminate workplace hazards. A key strength of the WCM approach lies in its rigorous root cause analysis and proactive risk assessment. It integrates hazard identification with compliance standards and extends risk assessment beyond unsafe conditions to include human errors and unsafe behaviors, forming a comprehensive risk prediction model. Additionally, WCM emphasizes horizontal deployment, ensuring that preventive measures are expanded across all operations. Beyond technical measures, WCM fosters a strong safety culture through management audits, operator-led safety committees, and structured engagement at all levels of the organization. By linking safety improvements to human behavior and error mechanisms, WCM provides a holistic framework for sustainable workplace safety. This tutorial will explore the WCM safety pillar’s methodology, tools, and real-world applications within the Consumer Packaged Goods (CPG) industry, offering practical insights into this structured and effective approach to safety management.",62
+276,M&D Best Track Papar Award Finalists,214,Presentation,103 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+277,Nanomanufacturing,215,Presentation,104 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+278,Computer Aided Manufacturing,216,Presentation,115 | Cobb Galleria Centre,6/2/2025 8:00,6/2/2025 9:20,,
+279,Material Characterization,217,Presentation,115 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,,
+280,Biofabrication,218,Presentation,115 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,,
+281,Process Monitoring 1,219,Presentation,115 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,,
+282,Cybermanufacturing,220,Presentation,116 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,,
+283,Cybersecurity Education for Engineers: Action for Cyber Resiliency,,Special Session,116 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,"Join our dynamic panel of academic and industry leaders for an essential conversation on embedding cyber-physical resilience into the design and operation of critical industrial environments, such as manufacturing and energy sectors. Industry experts will illuminate key lessons from major industrial cybersecurity incidents while academic thought leaders share cutting-edge research, educational insights, and impactful industry-academia collaborations. Our panelists are dedicated to empowering a new generation of engineers skilled in frontier technologies—including cybersecurity and AI—to secure increasingly complex cyber-physical systems.
+",63
+284,Manufacturing of Alloys,221,Presentation,102 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+285,Process Optimization 1,222,Presentation,102 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+286,Process Optimization 2,223,Presentation,102 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,
+287,Process Monitoring 2,224,Presentation,115 | Cobb Galleria Centre,6/3/2025 8:00,6/3/2025 9:20,,
+288,Manufacturing Systems Engineering 3,225,Presentation,116 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+289,Emerging Technologies in Advanced Manufacturing 1,226,Presentation,115 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+290,Experiential Education,227,Presentation,Ansley | Renaissance Waverly Hotel,6/2/2025 15:00,6/2/2025 16:20,,
+291,K12 and Engineering Education,228,Presentation,Ansley | Renaissance Waverly Hotel,6/1/2025 15:00,6/1/2025 16:20,,
+292,Routing Applications,229,Presentation,Lenox | Renaissance Waverly Hotel,6/1/2025 12:00,6/1/2025 13:20,,
+293,Barge / Intermodal Applications,230,Presentation,Lenox | Renaissance Waverly Hotel,6/1/2025 15:00,6/1/2025 16:20,,
+294,Supply Chain Disruption,231,Presentation,Lenox | Renaissance Waverly Hotel,6/1/2025 16:30,6/1/2025 17:50,,
+295,Studies of Hyperconnected Hubs/Networks,232,Presentation,Tyndall | Renaissance Waverly Hotel,6/1/2025 13:30,6/1/2025 14:50,,
+296,Facility Location Decisions,233,Presentation,Tyndall | Renaissance Waverly Hotel,6/1/2025 15:00,6/1/2025 16:20,,
+297,Agri-food Supply Chain Applications,234,Presentation,Tyndall | Renaissance Waverly Hotel,6/1/2025 16:30,6/1/2025 17:50,,
+298,Supply Chain Risk,235,Presentation,Lenox | Renaissance Waverly Hotel,6/2/2025 8:00,6/2/2025 9:20,,
+299,Network Design Applications,236,Presentation,Lenox | Renaissance Waverly Hotel,6/2/2025 12:00,6/2/2025 13:20,,
+300,Humanitarian Logistics / Disaster Response,237,Presentation,Lenox | Renaissance Waverly Hotel,6/2/2025 13:30,6/2/2025 14:50,,
+301,Routing Optimization,238,Presentation,Lenox | Renaissance Waverly Hotel,6/2/2025 15:00,6/2/2025 16:20,,
+302,Hyperconnected & Global Supply Chains,239,Presentation,Lenox | Renaissance Waverly Hotel,6/2/2025 16:30,6/2/2025 17:50,,
+303,Supply Chain Optimization,240,Presentation,Tyndall | Renaissance Waverly Hotel,6/2/2025 8:00,6/2/2025 9:20,,
+304,Special Session 1 - Expert Panel – Supply Chain Resilience,,Special Session,Tyndall | Renaissance Waverly Hotel,6/2/2025 12:00,6/2/2025 13:20,"This expert panel on Supply Chain Resilience will critically re-examine traditional strategies in light of challenges and gaps revealed during and after COVID-19, focusing on how rapid changes in global trading policies and the adoption of advanced technologies like IoT and AI are transforming supply chain management. Panelists will discuss the current state and future direction of resilience, highlighting the shift toward digitalization, real-time visibility, and data-driven decision-making to enhance agility and adaptability in an era of ongoing disruption.",64
+305,Transportation Optimization,241,Presentation,Tyndall | Renaissance Waverly Hotel,6/2/2025 13:30,6/2/2025 14:50,,
+306,Supply Chain Economic Planning,242,Presentation,Tyndall | Renaissance Waverly Hotel,6/2/2025 15:00,6/2/2025 16:20,,
+307,Sustainable / Circular Supply Chains,243,Presentation,Tyndall | Renaissance Waverly Hotel,6/2/2025 16:30,6/2/2025 17:50,,
+308,Machine Learning Applications,244,Presentation,Lenox | Renaissance Waverly Hotel,6/3/2025 12:00,6/3/2025 13:20,,
+309,Warehousing Applications,245,Presentation,Lenox | Renaissance Waverly Hotel,6/3/2025 8:00,6/3/2025 9:20,,
+310,Hybrid Fleet Deliveries,246,Presentation,Tyndall | Renaissance Waverly Hotel,6/3/2025 8:00,6/3/2025 9:20,,
+311,"Capstone Showcase, Student and Industry Leader Mixer",,Special Session,Habersham Ballroom | Renaissance Waverly Hotel,6/1/2025 16:30,6/1/2025 17:50,,65
+312,Healthcare Performance Excellence,,Special Session,Kennesaw | Renaissance Waverly Hotel,6/1/2025 12:00,6/1/2025 13:20,,66
+313,Capstone Final Four Presentations,,Special Session,Highlands Ballroom | Renaissance Waverly Hotel,6/2/2025 8:00,6/2/2025 9:20,,67
+314,SEMS Best Student Paper Competition,247,Presentation,111 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,,
+315,"Diversity, Equity , and Inclusion is it worth the pursuit?",,Special Session,117 | Cobb Galleria Centre,6/2/2025 15:00,6/2/2025 16:20,"This will be a presentation with a panel discussion exploring “WHY” Diversity Equity Inclusion is still worth the pursuit to help combat biases within the workplace. As programs are being discontinued, how can managers and leaders ensure they are getting the best talent for the job and continue to drive a culture of innovation and risk takers.
+",68
+316,Innovative OR Applications,,Special Session,Brayton | Renaissance Waverly Hotel,6/3/2025 12:00,6/3/2025 13:20,,69
+317,Volunteer Bag Stuffing,,Special Session,Habersham Ballroom | Renaissance Waverly Hotel,5/30/2025 14:00,5/30/2025 16:00,,70
+318,North American Operations Board (NAOB) Meeting (by invitation only),,Special Session,Andover | Renaissance Waverly Hotel,5/31/2025 8:00,5/31/2025 12:00,,71
+319,Technical Operations Board (TOB) Meeting (by invitation only),,Special Session,Brayton | Renaissance Waverly Hotel,5/31/2025 8:00,5/31/2025 12:00,,72
+320,New Faculty Colloquium (registration required),,Special Session,103 | Cobb Galleria Centre,5/31/2025 8:00,5/31/2025 17:30,,73
+321,NAOB/TOB Breakfast (by invitation only),,Special Session,Ascot | Renaissance Waverly Hotel,5/31/2025 7:30,5/31/2025 8:30,,74
+322,Doctoral Colloquium (registration required),,Special Session,Mall Space A | Cobb Galleria Centre,5/31/2025 9:30,5/31/2025 16:00,,75
+323,Future Faculty Fellows Workshop (by invitation only),,Special Session,Andover | Renaissance Waverly Hotel,5/31/2025 13:00,5/31/2025 17:00,,76
+324,"Engineering Unleashed: Engaging Minds, Empowering Industrial and Systems Engineers",,Special Session,Highlands Ballroom | Renaissance Waverly Hotel,5/31/2025 13:00,5/31/2025 15:00,"This pre-conference workshop is a dynamic event for academic and industry professionals, focused on driving curiosity, fostering connections, and creating value. Participants will gain actionable tools and techniques to innovate, collaborate, and deliver meaningful outcomes in their work, leaving equipped to apply these skills directly to their current projects and roles.
+",77
+325,"Engineering Unleashed: Engaging Minds, Empowering Industrial and Systems Engineers",,Special Session,Highlands Ballroom | Renaissance Waverly Hotel,5/31/2025 13:00,5/31/2025 15:00,"This pre-conference workshop is a dynamic event for academic and industry professionals, focused on driving curiosity, fostering connections, and creating value. Participants will gain actionable tools and techniques to innovate, collaborate, and deliver meaningful outcomes in their work, leaving equipped to apply these skills directly to their current projects and roles.
+",78
+326,NAOB/TOB/IOB/BOT Luncheon (by invitation only),,Special Session,Ascot | Renaissance Waverly Hotel,5/31/2025 12:00,5/31/2025 13:00,,79
+327,First Time Attendee Orientation,,Special Session,Highlands Ballroom | Renaissance Waverly Hotel,6/1/2025 7:00,6/1/2025 7:45,,80
+328,ABET Council Meeting (by invitation only),,Special Session,Galleria | Renaissance Waverly Hotel,6/1/2025 8:00,6/1/2025 9:20,,81
+329,Sunday Awards Presentation and Keynote Address,,Special Session,Grand Ballroom | Renaissance Waverly Hotel,6/1/2025 9:30,6/1/2025 11:15,,82
+330,Fellows Meeting,,Special Session,The Gallery | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 17:30,,83
+331,Introduce a Girl to Industrial & Systems Engineering,,Special Session,Highlands Ballroom | Renaissance Waverly Hotel,6/1/2025 14:00,6/1/2025 16:00,"""Introduce a Girl to Industrial and Systems Engineering"" brings together Girl Scouts of Greater Atlanta and IISE conference attendees for an interactive STEM experience. Industrial engineers shape tomorrow's world. By connecting Girl Scouts with IISE professionals, we're building pathways for young women to discover engineering careers while helping our members give back to the community.",84
+332,Welcome Reception,,Special Session,Garden Court AB | Renaissance Waverly Hotel,6/1/2025 18:00,6/1/2025 19:30,"Kick off the IISE Annual Conference at the Welcome Reception! Connect with fellow attendees, speakers, and exhibitors in a lively, social atmosphere as we celebrate the start of an exciting week of learning and networking.",85
+333,Faculty Advisors Breakfast (by invitation only),,Special Session,Waverly | Renaissance Waverly Hotel,6/2/2025 8:00,6/2/2025 8:45,,86
+334,Monday Awards Presentation and Keynote Address,,Special Session,Grand Ballroom | Renaissance Waverly Hotel,6/2/2025 9:30,6/2/2025 11:15,,87
+335,CIEADH Meeting,,Special Session,The Gallery | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 18:00,,88
+336,"University Faculty, Student and Alumni Reception (Auburn University, Oklahoma State University, University of Arizona, University of Arkansas, and University of Tennessee Knoxville)",,Special Session,103 | Cobb Galleria Centre,6/2/2025 18:00,6/2/2025 19:30,,89
+337,"University Faculty, Student and Alumni Reception (North Carolina State University, Georgia Tech, Virginia Tech, University of Florida and University of Michigan)",,Special Session,105 | Cobb Galleria Centre,6/2/2025 19:00,6/2/2025 20:30,,90
+338,Editors-In-Chief Meeting (by invitation only),,Special Session,Galleria | Renaissance Waverly Hotel,6/1/2025 12:00,6/1/2025 13:20,,91
+339,Transactions Editorial Board Meeting (by invitation only),,Special Session,Galleria | Renaissance Waverly Hotel,6/1/2025 13:30,6/1/2025 14:50,,92
+340,Health Systems Editorial Board Meeting (by invitation only),,Special Session,Galleria | Renaissance Waverly Hotel,6/1/2025 15:00,6/1/2025 16:20,,93
+341,Economists Editorial Board Meeting (by invitation only),,Special Session,Galleria | Renaissance Waverly Hotel,6/2/2025 8:00,6/2/2025 9:20,,94
+342,Hands-on Training: Cyber-Informed Engineering to Secure Industrial Control Systems (registration required),,Special Session,Galleria | Renaissance Waverly Hotel,5/31/2025 8:00,5/31/2025 12:00,"This session is ideal for anyone involved in teaching, curriculum development, or professional training, from students aspiring to become educators or trainers, to faculty enhancing their courses, to professionals designing impactful learning experiences in the workplace. ",95
+343,Supply Chain Management Foundations (registration required),,Special Session,Fulton | Renaissance Waverly Hotel,5/31/2025 8:00,5/31/2025 12:00,,96
+344,Undergraduate Symposium,,Special Session (Student Track),Grand Ballroom I-II | Renaissance Waverly Hotel,5/31/2025 8:00,5/31/2025 12:00,,97
+345,VOLT,,Special Session,Grand Ballroom I-II | Renaissance Waverly Hotel,5/31/2025 14:00,5/31/2025 17:00,,98
+346,Understanding and Navigating Full-Time Job Contract,,Special Session (Student Track),103 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,"This session will provide students with essential knowledge about employment contracts, including what to look for, key terms to understand, and how to negotiate effectively - asking the questions of performance reviews, raises, stock options…",99
+347,Choosing the Right Industry: Finding Your Fit,,Special Session (Student Track),103 | Cobb Galleria Centre,6/1/2025 13:30,6/1/2025 14:50,"Workshop focusing on assessing personal interests and skills, exploring various sectors within industrial engineering.
+",100
+348,Financial Literacy for Students: Managing Money Wisely,,Special Session (Student Track),103 | Cobb Galleria Centre,6/1/2025 15:00,6/1/2025 16:20,"Interactive session on budgeting, saving, planning, and understanding student loans to help students make informed financial decisions. Debt and investing upon graduation.",101
+349,Effective Study Techniques: Boosting Academic Performance,,Special Session (Student Track),104 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,"A workshop on study strategies, including active learning, group study, and using technology to improve grades. (Tutoring + Mentorship)",102
+350,Soft Skills for Engineers: Communication and Teamwork (Taking a Leadership Role and Becoming an Effective Communicator),,Special Session (Student Track),104 | Cobb Galleria Centre,6/1/2025 13:30,6/1/2025 14:50,Interactive session focused on developing essential soft skills through role-playing and group activites.,103
+351,Time Management: Balancing Academies and Extracurriculars,,Special Session (Student Track),104 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,"Practical tools and techniques for managing time effectively to juggle classes, work, and activities.
+",104
+352,Pursuing Higher Education: Is Grad School Right for You?,,Special Session (Student Track),104 | Cobb Galleria Centre,6/2/2025 16:30,6/2/2025 17:50,"Pursuing Higher Education: Is Grad School Right for You:  A session exploring the pros and cons of graduate school, including tips for applications and selecting programs.",105
+353,Internships and Co-Ops: Making the Most of Your Experience,,Special Session (Student Track),103 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,"Discussion on how to secure internships, what to expect, and how to leverge those experiences for future job opportunities.",106
+354,Landing Your First Job: Tips from Industry Experts,,Special Session (Student Track),103 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,Panel discussion with HR professionals and recent graduates about effective job search strategies and interview tips.,107
+355,Maximizing Your College Experience: Beyond the Classroom,,Special Session (Student Track),104 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,"Strategies for getting involved in clubs, research, and community service to enhance both personal and professional growth.
+",108
+356,Mentoring Your Life,,Special Session (Student Track),104 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,"How to get a mentor, keep that relationship and how to utilize it.
+",109
+357,Poster Session,248,Poster Sessions,Habersham Ballroom | Renaissance Waverly Hotel,6/2/2025 11:15,6/2/2025 13:20,,
+358,Data Science for Industrial Excellence: From Statistical Process Control to Deep Learning,,Special Session,Wilton | Renaissance Waverly Hotel,6/2/2025 13:30,6/2/2025 14:50,"Modern, data-rich industrial environments present both a challenge and an opportunity. Uncovering key insights from a deluge of data is rarely straightforward, but doing it well unlocks a level of industrial excellence that is unattainable otherwise. In this presentation, a JMP® technical staff member will review lessons learned from real JMP customers about achieving industrial excellence through data science methods, from advanced statistical process control to machine learning methods for data mining and predictive modeling. Examples will be accompanied by brief demonstrations of techniques implemented in JMP statistical software.",110
+359,Construction Engineering & Management: Addressing Risk Factors with Humans in Construction,249,Presentation,Waverly | Renaissance Waverly Hotel,6/1/2025 13:30,6/1/2025 14:50,,
+360,Construction Engineering & Management: Modular Construction,250,Presentation,Stanhope | Renaissance Waverly Hotel,6/2/2025 12:00,6/2/2025 13:20,,
+361,Data-Driven Strategies for Enhancing Healthcare Delivery,251,Presentation,Waverly | Renaissance Waverly Hotel,6/2/2025 12:00,6/2/2025 13:20,,
+362,Modeling and Optimization for Effective Disease Prevention,252,Presentation,Waverly | Renaissance Waverly Hotel,6/2/2025 13:30,6/2/2025 14:50,,
+363,IISE Update,,Special Session,Waverly | Renaissance Waverly Hotel,6/2/2025 15:00,6/2/2025 16:20,"oin IISE CEO Don Greene for the IISE Update, where you'll hear the latest on the Institute’s strategic initiatives, member benefits, and vision for the future. Don’t miss this opportunity to stay informed and engaged with your professional community.
+",111
+364,Construction Engineering & Management: Modeling and Data Analysis in Construction,,Special Session,Stanhope | Renaissance Waverly Hotel,6/3/2025 12:00,6/3/2025 13:20,"This session presents topics on machine learning models for cost, trend analysis for permitting, use of gameification to enhance performance, and use of chloride ingress in concrete. ",112
+365,The 75th anniversary of Alpha Pi Mu,,Special Session,Stanhope | Renaissance Waverly Hotel,6/2/2025 8:00,6/2/2025 9:20,"n celebration of the 75th anniversary of Alpha Pi Mu, this panel will highlight its continued importance through stories of students, faculty advisors and executive committee members.",113
+366,AI and Analytics for Human-Centered Systems,253,Presentation,106 | Cobb Galleria Centre,6/3/2025 15:00,6/3/2025 16:20,,
+367,AI for Public Good,,Special Session,106 | Cobb Galleria Centre,6/3/2025 13:30,6/3/2025 14:50,,114
+368,Engineering People and Team Performance Excellence,,Special Session,Kennesaw | Renaissance Waverly Hotel,6/1/2025 13:30,6/1/2025 14:50,"Join us for an engaging session introducing IISE's new Engineering People and Team Performance Community. Discover executive insights into our upcoming professional development sessions from January to May, culminating in our conference.
+
+Explore an innovative AI-enabled application designed to enhance Personal and Professional Mastery and foster Social Fitness. Gain insights into the Foundational Principles that underpin personal and professional growth, and learn strategies for integrating engineering principles into traditionally softer sciences through strategic HR partnerships. Discover how these collaborations can significantly impact Organizational Excellence and Enterprise Value.
+
+This session will be interactive, featuring small group exercises to facilitate learning and networking opportunities.
+",115
+369,Engineering Management Competition (orientation session),,Special Session,Grand Ballroom I | Renaissance Waverly Hotel,6/1/2025 13:30,6/1/2025 14:50,"This session provides detailed instructions on the engineering management competition.  No experience is assumed on the part of the participants.  The orientation and training covers all aspects of the *game*, the competition scoring, and the rewards involved.  There is no entry fee, but the competition is limited to no more than 10 student teams and no more than 10 practitioner teams.  There are two prize categories:  student and practitioner.  The game is being sponsored by FlexSim-Autodesk.  Snacks and drinks will be provided (sponsored by TAMU).   The student chapter at Ohio State University will assist in the conduct of the game. ",116
+370,Engineering Management Competition (competition session),,Special Session,Grand Ballroom I | Renaissance Waverly Hotel,6/1/2025 15:00,6/1/2025 16:20,"The management decision making game has decision makers make production resource decisions for a small manufacturing operation.  The number and types of decisions are aligned to the kind that would be made for an actual operation.  Scoring is focused on performance, revenues, and costs incurred from the decisions made.  The model is run for an equal time horizon for all participants to ensure a common basis of comparison.  The game takes roughly 45-50 minutes to play.  Winners (1st, 2nd, and 3rd) will be identified at the end of the session.  Prize sponsors:  Solomon Bruce Consulting, Texas A&M University
+
+Note:
+
+The competition is open to all. There is no entry fee for the competition. Food and beverages will be provided. 
+Please ensure you bring your PC, capable of running the Windows operating system, to be able to participate in the competition. ",117
+371,Doctoral/New Faculty Colloquia Luncheon (Registration required),,Special Session,The Gallery | Cobb Galleria Centre,5/31/2025 12:00,5/31/2025 13:00,,118
+372,QCRE Student Best Poster Competition,,Special Session,Chancellor | Renaissance Waverly Hotel,6/1/2025 13:30,6/1/2025 14:50,,119
+373,Doctoral Colloquium Thesis Competition,,Special Session,117 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,120
+374,Doctoral Colloquium Thesis Competition,,Special Session,117 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,121
+375,Doctoral Colloquium Thesis Competition,,Special Session,117 | Cobb Galleria Centre,6/1/2025 12:00,6/1/2025 13:20,,122
+376,Undergraduate Student Technical Paper Competition,,Special Session,Wilton | Renaissance Waverly Hotel,6/1/2025 8:00,6/1/2025 12:00,,123
+377,Innovation Cup Presentations,,Special Session,Wilton | Renaissance Waverly Hotel,6/1/2025 12:00,6/1/2025 17:30,,124
+378,Rockwell Student Simulation Competition,,Special Session,Waverly | Renaissance Waverly Hotel,6/1/2025 15:00,6/1/2025 17:50,,125
+379,Prayer Room / Mother's Room,,Special Session,Forsyth | Renaissance Waverly Hotel,6/1/2025 7:00,6/1/2025 18:00,,126
+380,Prayer Room / Mother's Room,,Special Session,Forsyth | Renaissance Waverly Hotel,6/1/2025 7:00,6/1/2025 18:00,,127
+381,Prayer Room / Mother's Room,,Special Session,Forsyth | Renaissance Waverly Hotel,6/1/2025 7:00,6/1/2025 18:00,,128
+382,IISE Transactions Best Paper,,Special Session,Galleria | Renaissance Waverly Hotel,6/2/2025 15:00,6/2/2025 16:20,,129
+383,IISE Transactions Best Application Paper,,Special Session,Galleria | Renaissance Waverly Hotel,6/2/2025 16:30,6/2/2025 17:50,,130
+384,Exhibit Hall Open,,Special Session,Garden Court AB | Renaissance Waverly Hotel,6/2/2025 10:45,6/2/2025 16:00,,131
+385,Exhibit Hall Open,,Special Session,Garden Court AB | Renaissance Waverly Hotel,6/2/2025 10:45,6/2/2025 16:00,,132
+386,Innovation Design Competition,,Special Session,Stanhope | Renaissance Waverly Hotel,6/2/2025 13:30,6/2/2025 14:50,,133
+387,Tuesday Awards Presentation and Keynote Address,,Special Session,Grand Ballroom | Renaissance Waverly Hotel,6/3/2025 9:30,6/3/2025 11:15,,134
+388,"Sustainable Production and Logistics in Textiles, Fashion and Education (SDG 9)",254,Presentation,119 | Cobb Galleria Centre,6/2/2025 13:30,6/2/2025 14:50,,
+389,AI and Personalized Learning in Engineering Economics,255,Presentation,103 | Cobb Galleria Centre,6/3/2025 12:00,6/3/2025 13:20,,
+390,Future of engineering education,,Special Session,102 | Cobb Galleria Centre,6/2/2025 12:00,6/2/2025 13:20,A panel of academics teaching and researching in the area of engineering economy discussing the future of engineering economics,135
+391,"Modern Methods, Languages, and Use Cases in Simulation Modeling",,Special Session,Wilton | Renaissance Waverly Hotel,6/2/2025 15:00,6/2/2025 16:20,"A workshop from the vendor of AnyLogic – an agnostic multi-method simulation software with the largest worldwide user community. Based on AnyLogic usage statistics, we will show which modeling methods, techniques, and languages are most used today by the industry. This includes DES (process flowcharts), Agent-based modeling, Statecharts, System Dynamics, GIS-based modeling, and others. We will also talk about the recent (and very positive) shift from the project-based usage of simulation to operational use and, therefore, longer lifecycles of models (digital twinning, etc.); we will present some use cases and go through the new requirements to simulations. Finally, we will touch the current relationship of Simulation and AI: what worked, what did not work, and what to expect.",136
+392,Data-Driven Modeling and Monitoring of Health Conditions,256,Presentation,Ascot | Renaissance Waverly Hotel,6/2/2025 13:30,6/2/2025 14:50,,
+393,IE Tools applied to Illicit Supply Networks,257,Presentation,Ascot | Renaissance Waverly Hotel,6/2/2025 12:00,6/2/2025 13:20,,
+394,U.S. Northeast Region Town Hall,,Town Hall,Wilton | Renaissance Waverly Hotel,6/2/2025 8:00,6/2/2025 9:20,,137
+395,Forecasting / Predictive Modeling Optimization,258,Presentation,Tyndall | Renaissance Waverly Hotel,6/1/2025 8:00,6/1/2025 9:20,,
+396,Supply Chain / Allocation,259,Presentation,Tyndall | Renaissance Waverly Hotel,6/1/2025 12:00,6/1/2025 13:20,,

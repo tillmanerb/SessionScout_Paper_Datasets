@@ -1,0 +1,243 @@
+,session_name,start_datetime,end_datetime,session_id,is_special_session,is_special_and_panel_session
+0,AI in Health Systems,5/19/2024 12:00,5/19/2024 13:20,1,FALSE,FALSE
+1,Advanced Data Analytics for Quality Control and Reliability,5/19/2024 15:00,5/19/2024 16:20,2,FALSE,FALSE
+2,Advanced Simulation Models,5/19/2024 16:30,5/19/2024 17:50,3,FALSE,FALSE
+3,Advanced Topics in Smart Manufacturing I,5/19/2024 13:30,5/19/2024 14:50,4,FALSE,FALSE
+4,Advanced Topics of QCRE Applications I,5/21/2024 8:00,5/21/2024 9:20,5,FALSE,FALSE
+5,Advanced Topics of QCRE Applications II,5/20/2024 16:30,5/20/2024 17:30,6,FALSE,FALSE
+6,Advanced Topics of QCRE I,5/19/2024 12:00,5/19/2024 13:20,7,FALSE,FALSE
+7,Advanced Topics of QCRE II,5/20/2024 16:30,5/20/2024 17:50,8,FALSE,FALSE
+8,Advanced Topics of QCRE III,5/20/2024 12:00,5/20/2024 13:20,9,FALSE,FALSE
+9,Advanced Topics of QCRE IV,5/20/2024 16:30,5/20/2024 17:50,10,FALSE,FALSE
+10,Advanced Topics of QCRE V,5/21/2024 12:00,5/21/2024 13:20,11,FALSE,FALSE
+12,"Advancing Climate Action in Business, Technology and Transportation (SDG 13)",5/21/2024 15:00,5/21/2024 16:00,13,FALSE,FALSE
+13,Agent-Based Modeling,5/21/2024 12:00,5/21/2024 13:20,14,FALSE,FALSE
+14,Algorithmic Approaches,5/19/2024 16:30,5/19/2024 17:30,15,FALSE,FALSE
+15,Aligning Profit and Planet and Addressing Water Challenges (SDG 6/SDG 12),5/19/2024 16:30,5/19/2024 17:50,16,FALSE,FALSE
+16,Applications of Work Systems,5/19/2024 16:30,5/19/2024 17:30,17,FALSE,FALSE
+17,Automation,5/19/2024 13:50,5/19/2024 14:10,18,FALSE,FALSE
+18,Bioprinting and Biomedical Manufacturing Processes-I,5/20/2024 8:00,5/20/2024 9:00,19,FALSE,FALSE
+19,Bioprinting and Biomedical Manufacturing Processes-II,5/20/2024 12:00,5/20/2024 13:20,20,FALSE,FALSE
+20,Bioprinting and Biomedical Manufacturing Processes-III,5/20/2024 14:30,5/20/2024 14:50,21,FALSE,FALSE
+21,"Building Sustainable Communities: Enhancing Early Child Development, Infrastrucure, Park Access and Industrial Efficiency (SDG 11)",5/21/2024 8:00,5/21/2024 9:20,22,FALSE,FALSE
+22,Business Analytics,5/20/2024 8:00,5/20/2024 9:20,23,FALSE,FALSE
+23,Cancer Care,5/21/2024 13:30,5/21/2024 14:50,24,FALSE,FALSE
+24,Center for Excellence in Logistics and Distribution (CELDi),5/20/2024 12:00,5/20/2024 13:00,25,FALSE,FALSE
+25,Closing the Loop: Advancements in Circular Economy and Responsible Production (SDG 12),5/19/2024 12:00,5/19/2024 13:20,26,FALSE,FALSE
+26,Cognitive Ergonomics,5/21/2024 12:00,5/21/2024 13:00,27,FALSE,FALSE
+27,Collaborative Utilization of Natural Resources,5/20/2024 12:00,5/20/2024 12:40,28,FALSE,FALSE
+28,Composites in Additive Manufacturing,5/19/2024 8:00,5/19/2024 9:00,29,FALSE,FALSE
+29,Construction Performance,5/19/2024 12:00,5/19/2024 13:00,30,FALSE,FALSE
+30,Construction Safety,5/21/2024 12:20,5/21/2024 13:00,31,FALSE,FALSE
+31,Contemporary Work Environments,5/20/2024 16:30,5/20/2024 17:10,32,FALSE,FALSE
+32,Continuous Improvement Tools and Methodologies I,5/20/2024 12:00,5/20/2024 13:20,33,FALSE,FALSE
+33,Continuous Improvement Tools and Methodologies II,5/20/2024 13:30,5/20/2024 14:10,34,FALSE,FALSE
+34,Cybersecurity in Manufacturing,5/19/2024 12:00,5/19/2024 13:00,35,FALSE,FALSE
+35,"Data Analytics in Controls, Measurement, and Education",5/19/2024 12:00,5/19/2024 13:00,36,FALSE,FALSE
+36,Decarbonizing Mobility,5/19/2024 8:00,5/19/2024 9:00,37,FALSE,FALSE
+37,Decision Analysis and Economic Evaluation,5/19/2024 12:00,5/19/2024 13:20,38,FALSE,FALSE
+38,Decision Support,5/21/2024 8:00,5/21/2024 9:20,39,FALSE,FALSE
+39,Deep Learning I,5/20/2024 8:00,5/20/2024 9:20,40,FALSE,FALSE
+40,Deep Learning II,5/20/2024 12:00,5/20/2024 13:20,41,FALSE,FALSE
+41,Deep Learning III,5/20/2024 13:30,5/20/2024 14:50,42,FALSE,FALSE
+42,Digital Excellence I,5/21/2024 12:00,5/21/2024 13:00,43,FALSE,FALSE
+43,"Digital Innovation in Supply Chain Management: Simulation, Decision Support, and Shared Tools",5/19/2024 13:30,5/19/2024 14:50,44,FALSE,FALSE
+44,Digital Manufacturing and Industry 4.0-I,5/19/2024 15:00,5/19/2024 16:20,45,FALSE,FALSE
+45,Digital Manufacturing and Industry 4.0-II,5/19/2024 16:30,5/19/2024 17:50,46,FALSE,FALSE
+46,Digital Manufacturing and Industry 4.0-III,5/20/2024 16:30,5/20/2024 17:50,47,FALSE,FALSE
+47,Digital Manufacturing and Industry 4.0-IV,5/21/2024 8:00,5/21/2024 8:40,48,FALSE,FALSE
+48,Digital Thread in Additive Manufacturing Processes,5/20/2024 15:00,5/20/2024 16:00,49,FALSE,FALSE
+49,Digital Transformation,5/20/2024 15:00,5/20/2024 16:20,50,FALSE,FALSE
+50,Digital Twins,5/19/2024 12:00,5/19/2024 13:00,51,FALSE,FALSE
+51,Directed Energy Deposition Additive Manufacturing Processes,5/19/2024 12:00,5/19/2024 13:00,52,FALSE,FALSE
+52,Discrete Event Simulation,5/21/2024 13:30,5/21/2024 14:30,53,FALSE,FALSE
+53,Diverse Topics for HFE 3,5/20/2024 8:00,5/20/2024 9:00,54,FALSE,FALSE
+54,Diverse Topics for Human Factors and Ergonomics 1,5/19/2024 8:00,5/19/2024 9:00,55,FALSE,FALSE
+55,Diverse Topics for Human Factors and Ergonomics 2,5/19/2024 16:30,5/19/2024 17:50,56,FALSE,FALSE
+56,Driving Towards Clean Affordable Energy: Advances in Electric Vehicles and Battery Management (SDG 7),5/20/2024 13:30,5/20/2024 14:30,57,FALSE,FALSE
+57,EV logistics,5/20/2024 13:30,5/20/2024 14:50,58,FALSE,FALSE
+58,Economics and Strategy,5/21/2024 15:20,5/21/2024 16:00,59,FALSE,FALSE
+59,Emergency Response and Preparedness  in Health Systems,5/20/2024 12:00,5/20/2024 13:20,60,FALSE,FALSE
+60,Emerging Technologies and Safety: From AMR Integration to Urban Air Mobility,5/19/2024 15:00,5/19/2024 16:00,61,FALSE,FALSE
+61,Energy & Environment I,5/20/2024 15:00,5/20/2024 16:00,62,FALSE,FALSE
+62,Energy & Environment II,5/20/2024 16:30,5/20/2024 17:50,63,FALSE,FALSE
+63,Energy Markets,5/21/2024 13:30,5/21/2024 14:30,64,FALSE,FALSE
+64,Energy Systems Maintenance and Forecasting,5/19/2024 15:00,5/19/2024 16:00,65,FALSE,FALSE
+65,Energy and Infrastructure,5/19/2024 8:00,5/19/2024 9:20,66,FALSE,FALSE
+66,Engineering Education Pedagogy and Assessment,5/20/2024 13:30,5/20/2024 14:50,67,FALSE,FALSE
+67,Engineering Identity & Global Engineering Education,5/21/2024 15:00,5/21/2024 16:20,68,FALSE,FALSE
+71,Facilities Design & Planning II,5/19/2024 16:30,5/19/2024 17:10,72,FALSE,FALSE
+72,Facilities Design & Planning III,5/20/2024 12:00,5/20/2024 13:20,73,FALSE,FALSE
+70,Facilities Design & Planning I,5/19/2024 15:00,5/19/2024 15:40,71,FALSE,FALSE
+73,Facilities Design & Planning IV,5/20/2024 15:00,5/20/2024 16:00,74,FALSE,FALSE
+74,Facility Design,5/19/2024 8:00,5/19/2024 9:20,75,FALSE,FALSE
+75,Fused Deposition Modeling Additive Manufacturing Processes,5/19/2024 13:30,5/19/2024 14:30,76,FALSE,FALSE
+76,Harvesting Hope: Innovations in Food Security and Ending Hunger (SDG 2),5/20/2024 8:00,5/20/2024 9:00,77,FALSE,FALSE
+78,Health Systems for Human Factors and Ergonomics 1,5/19/2024 15:00,5/19/2024 16:20,79,FALSE,FALSE
+79,Health Systems for Human Factors and Ergonomics 2,5/19/2024 16:30,5/19/2024 17:30,80,FALSE,FALSE
+81,Healthcare Applications,5/19/2024 13:30,5/19/2024 14:50,82,FALSE,FALSE
+82,Healthcare I,5/19/2024 8:00,5/19/2024 9:20,83,FALSE,FALSE
+83,Healthcare II,5/19/2024 12:00,5/19/2024 13:20,84,FALSE,FALSE
+84,Healthcare III,5/19/2024 13:30,5/19/2024 14:50,85,FALSE,FALSE
+85,Healthcare IV,5/19/2024 15:20,5/19/2024 16:00,86,FALSE,FALSE
+80,Healthcare,5/20/2024 15:00,5/20/2024 16:20,81,FALSE,FALSE
+86,Healthcare Optimization,5/19/2024 12:00,5/19/2024 13:00,87,FALSE,FALSE
+87,Healthcare Supply Chain,5/19/2024 15:00,5/19/2024 16:20,88,FALSE,FALSE
+88,Healthcare V,5/19/2024 16:30,5/19/2024 17:30,89,FALSE,FALSE
+89,Healthcare Work Systems,5/20/2024 12:00,5/20/2024 13:20,90,FALSE,FALSE
+90,"Healthcare for a Sustainable Future: Innovations in Operations, Design, and Environmental Management (SDG 3)",5/19/2024 8:00,5/19/2024 9:20,91,FALSE,FALSE
+91,Home and Mobile Health Systems,5/20/2024 8:00,5/20/2024 9:20,92,FALSE,FALSE
+92,Human trafficking and other humanitarian crises,5/21/2024 8:00,5/21/2024 9:00,93,FALSE,FALSE
+93,Humanatarian logistics 1,5/19/2024 13:30,5/19/2024 14:50,94,FALSE,FALSE
+94,Humanatarian logistics 2,5/19/2024 15:00,5/19/2024 16:20,95,FALSE,FALSE
+99,Inclusive Excellence in ISE Education,5/19/2024 8:00,5/19/2024 9:20,100,FALSE,FALSE
+100,Industrial Engineering Solutions for Sustainability Planning and Reporting,5/21/2024 13:30,5/21/2024 14:30,101,FALSE,FALSE
+101,Industrial Prognostics and Decision-Making,5/20/2024 15:00,5/20/2024 16:20,102,FALSE,FALSE
+102,Industry-Academia Collaboration in Education,5/20/2024 8:00,5/20/2024 9:00,103,FALSE,FALSE
+103,Information Systems & Software,5/19/2024 8:00,5/19/2024 9:20,104,FALSE,FALSE
+104,Information and Digital Systems in Health,5/19/2024 13:30,5/19/2024 14:50,105,FALSE,FALSE
+105,Inkjet Additive Manufacturing Processes,5/20/2024 16:30,5/20/2024 17:30,106,FALSE,FALSE
+106,"Innovating for Impact: Exploring Interdisciplinary Collaboration, Sustainability Challenges, and Indigenous Design (SDG 9)",5/20/2024 16:30,5/20/2024 17:30,107,FALSE,FALSE
+107,Innovations in Engineering Education,5/19/2024 16:30,5/19/2024 17:50,108,FALSE,FALSE
+108,Innovations in Teaching and Learning Technologies,5/20/2024 15:00,5/20/2024 16:20,109,FALSE,FALSE
+109,Innovative Applications of Artificial Intelligence II,5/21/2024 8:00,5/21/2024 9:20,110,FALSE,FALSE
+110,Innovative Learning Approaches in ISE Education,5/19/2024 13:30,5/19/2024 14:50,111,FALSE,FALSE
+111,Innovative topics in supply chain 1,5/19/2024 8:00,5/19/2024 9:20,112,FALSE,FALSE
+112,Innovative topics in supply chain 2,5/20/2024 8:00,5/20/2024 9:20,113,FALSE,FALSE
+113,Integrating AI/ML in Simulation I,5/21/2024 13:30,5/21/2024 14:30,114,FALSE,FALSE
+114,Integrating AI/ML in Simulation II,5/20/2024 15:00,5/20/2024 16:00,115,FALSE,FALSE
+115,"Internet of Things (IoT) Technology: Tools, Management & Applications",5/20/2024 8:00,5/20/2024 9:20,116,FALSE,FALSE
+116,Inventory Management,5/19/2024 8:00,5/19/2024 8:40,117,FALSE,FALSE
+117,Large-scale Integer Programming,5/20/2024 8:00,5/20/2024 9:20,118,FALSE,FALSE
+118,Leadership and Teamwork Development in Engineering Education,5/21/2024 8:00,5/21/2024 9:00,119,FALSE,FALSE
+121,Logistics I,5/20/2024 13:30,5/20/2024 14:50,122,FALSE,FALSE
+122,Logistics II,5/20/2024 15:00,5/20/2024 16:20,123,FALSE,FALSE
+124,Machine Learning I,5/19/2024 12:00,5/19/2024 13:20,125,FALSE,FALSE
+125,Machine Learning II,5/19/2024 13:30,5/19/2024 14:50,126,FALSE,FALSE
+126,Machine Learning III,5/19/2024 15:00,5/19/2024 16:20,127,FALSE,FALSE
+127,"Machine Learning and AI, Part 1",5/19/2024 15:00,5/19/2024 16:00,128,FALSE,FALSE
+128,Machine Learning in Manufacturing I,5/21/2024 12:00,5/21/2024 13:20,129,FALSE,FALSE
+134,Manufacturing I,5/20/2024 13:30,5/20/2024 14:50,135,FALSE,FALSE
+129,"Machine learning and AI, Part 2",5/20/2024 8:00,5/20/2024 9:00,130,FALSE,FALSE
+130,Machine learning in health systems,5/19/2024 8:00,5/19/2024 9:20,131,FALSE,FALSE
+133,Manufacturing & Design for Human Factors and Ergonomics,5/19/2024 12:00,5/19/2024 13:20,134,FALSE,FALSE
+136,Manufacturing III,5/20/2024 16:30,5/20/2024 17:50,137,FALSE,FALSE
+135,Manufacturing II,5/20/2024 15:00,5/20/2024 16:00,136,FALSE,FALSE
+137,Manufacturing Optimization,5/19/2024 12:00,5/19/2024 13:20,138,FALSE,FALSE
+138,Manufacturing Organizations I,5/19/2024 15:00,5/19/2024 16:20,139,FALSE,FALSE
+139,Manufacturing Organizations II,5/19/2024 16:30,5/19/2024 17:50,140,FALSE,FALSE
+140,Manufacturing process improvement,5/20/2024 16:30,5/20/2024 17:50,141,FALSE,FALSE
+141,Marketing Management,5/19/2024 8:20,5/19/2024 9:00,142,FALSE,FALSE
+142,Mechanical Characterization in Additive Manufacturing Processes,5/20/2024 8:00,5/20/2024 9:00,143,FALSE,FALSE
+148,Network Optimization,5/20/2024 16:30,5/20/2024 17:30,149,FALSE,FALSE
+143,Methods in Network Optimization,5/20/2024 13:30,5/20/2024 14:50,144,FALSE,FALSE
+144,Microgrids and Energy Storage,5/20/2024 8:00,5/20/2024 9:20,145,FALSE,FALSE
+145,Modeling & Simulation for Human Factors and Ergonomics,5/19/2024 13:30,5/19/2024 14:50,146,FALSE,FALSE
+146,Modeling Environments,5/20/2024 16:30,5/20/2024 17:30,147,FALSE,FALSE
+147,Modeling Human Behavior,5/19/2024 15:00,5/19/2024 16:20,148,FALSE,FALSE
+149,Network design and analysis,5/21/2024 8:00,5/21/2024 9:00,150,FALSE,FALSE
+150,OR Methods,5/20/2024 16:30,5/20/2024 17:50,151,FALSE,FALSE
+151,OR for a Resilient Future,5/21/2024 8:00,5/21/2024 9:20,152,FALSE,FALSE
+152,Operations Research and Modeling in Education,5/21/2024 13:30,5/21/2024 14:50,153,FALSE,FALSE
+131,Manufacturing,5/20/2024 8:00,5/20/2024 9:20,132,FALSE,FALSE
+153,Optimization,5/19/2024 12:00,5/19/2024 13:20,154,FALSE,FALSE
+154,Optimization Application,5/21/2024 12:00,5/21/2024 13:20,155,FALSE,FALSE
+155,Optimization in Transportation,5/20/2024 15:00,5/20/2024 16:20,156,FALSE,FALSE
+156,Organizational Culture,5/20/2024 8:00,5/20/2024 9:40,157,FALSE,FALSE
+157,Organizational Ergonomics and Engineering Education,5/21/2024 15:00,5/21/2024 16:20,158,FALSE,FALSE
+159,Patient Care and Treatment I,5/21/2024 8:00,5/21/2024 9:20,160,FALSE,FALSE
+160,Patient Care and Treatment II,5/21/2024 12:00,5/21/2024 13:20,161,FALSE,FALSE
+161,Personal Development I,5/19/2024 8:00,5/19/2024 9:20,162,FALSE,FALSE
+162,Personal Development II,5/20/2024 15:00,5/20/2024 16:20,163,FALSE,FALSE
+163,Physical Ergonomics,5/21/2024 13:30,5/21/2024 14:50,164,FALSE,FALSE
+164,Planning and Scheduling,5/19/2024 16:30,5/19/2024 17:50,165,FALSE,FALSE
+165,Planning/Logistics in Forestry,5/19/2024 15:00,5/19/2024 16:00,166,FALSE,FALSE
+167,Policy-driven Decision Making,5/19/2024 16:30,5/19/2024 17:50,168,FALSE,FALSE
+168,Poster Presentations,5/20/2024 11:15,5/20/2024 13:20,169,FALSE,FALSE
+169,Predictive Models in Health Systems,5/20/2024 15:00,5/20/2024 16:20,170,FALSE,FALSE
+170,Predictive analytics for Wind Power Generation,5/19/2024 13:30,5/19/2024 14:50,171,FALSE,FALSE
+172,Privacy and Security in Power Systems,5/19/2024 12:00,5/19/2024 13:00,173,FALSE,FALSE
+173,"Privacy, security, and resilience",5/20/2024 13:30,5/20/2024 14:50,174,FALSE,FALSE
+174,Problem Solving and Decision Making I,5/20/2024 13:30,5/20/2024 14:30,175,FALSE,FALSE
+175,Problem Solving and Decision Making II,5/20/2024 16:30,5/20/2024 17:50,176,FALSE,FALSE
+176,Process & Operational Improvement I,5/19/2024 8:00,5/19/2024 9:20,177,FALSE,FALSE
+177,Process Improvement in Health Systems,5/19/2024 8:00,5/19/2024 9:20,178,FALSE,FALSE
+178,Process Monitoring and Anomaly Detection,5/19/2024 13:30,5/19/2024 14:30,179,FALSE,FALSE
+179,Process Planning-I,5/20/2024 8:00,5/20/2024 9:00,180,FALSE,FALSE
+180,Process Planning-II,5/20/2024 12:00,5/20/2024 13:00,181,FALSE,FALSE
+181,Production and Inventory Planning,5/21/2024 12:00,5/21/2024 13:20,182,FALSE,FALSE
+182,Public Health,5/20/2024 13:30,5/20/2024 14:50,183,FALSE,FALSE
+183,Recent Advances in Health Systems I,5/21/2024 12:00,5/21/2024 13:20,184,FALSE,FALSE
+184,Recent Advances in Health Systems II,5/21/2024 13:30,5/21/2024 14:50,185,FALSE,FALSE
+185,Reliability Analysis I,5/19/2024 8:00,5/19/2024 9:20,186,FALSE,FALSE
+186,Reliability I,5/20/2024 8:00,5/20/2024 9:20,187,FALSE,FALSE
+187,Reliability II,5/20/2024 12:00,5/20/2024 13:20,188,FALSE,FALSE
+188,Renewable Sustainable Supply Chains (SDG 12),5/19/2024 15:20,5/19/2024 16:20,189,FALSE,FALSE
+189,Resilience & Hazard Analysis,5/19/2024 8:00,5/19/2024 9:20,190,FALSE,FALSE
+190,Resilience and State Estimation,5/19/2024 16:30,5/19/2024 17:30,191,FALSE,FALSE
+191,Resilience in Construction,5/20/2024 12:00,5/20/2024 13:00,192,FALSE,FALSE
+192,Resource Allocation and Workforce Planning in Health Systems,5/20/2024 8:00,5/20/2024 9:20,193,FALSE,FALSE
+193,Resource and Asset Management,5/19/2024 15:00,5/19/2024 16:20,194,FALSE,FALSE
+194,Risk Management,5/19/2024 15:00,5/19/2024 16:20,195,FALSE,FALSE
+195,Risk and Uncertainties In Energy Planning,5/20/2024 8:00,5/20/2024 9:20,196,FALSE,FALSE
+196,Routing 1,5/19/2024 15:00,5/19/2024 16:00,197,FALSE,FALSE
+197,Routing 2,5/20/2024 16:30,5/20/2024 17:50,198,FALSE,FALSE
+198,SE Concepts and Theory,5/19/2024 13:30,5/19/2024 14:50,199,FALSE,FALSE
+199,SE Methods and Applications,5/19/2024 15:00,5/19/2024 16:00,200,FALSE,FALSE
+200,Scheduling/Real-Time Execution,5/19/2024 13:30,5/19/2024 14:30,201,FALSE,FALSE
+201,Sensing and Control in Additive Manufacturing Processes I,5/19/2024 15:00,5/19/2024 16:20,202,FALSE,FALSE
+202,Sensing and Control in Additive Manufacturing Processes-II,5/19/2024 16:30,5/19/2024 17:50,203,FALSE,FALSE
+203,Service Organizations,5/20/2024 16:30,5/20/2024 17:30,204,FALSE,FALSE
+204,Simulating Transportation,5/21/2024 15:00,5/21/2024 16:20,205,FALSE,FALSE
+231,Transportation,5/20/2024 16:30,5/20/2024 17:50,232,FALSE,FALSE
+205,Simulation Models in Health Systems,5/20/2024 13:30,5/20/2024 14:50,206,FALSE,FALSE
+206,Smart Manufacturing and Design,5/20/2024 13:30,5/20/2024 14:50,207,FALSE,FALSE
+207,"Smart and Sustainable Maintenance: Machine Learning, Blockchain and Circular Economy Approaches",5/19/2024 12:00,5/19/2024 13:00,208,FALSE,FALSE
+208,Social Good Analytics,5/20/2024 12:00,5/20/2024 13:20,209,FALSE,FALSE
+77,Health Systems,5/20/2024 15:00,5/20/2024 16:20,78,FALSE,FALSE
+209,Social Media & Information Analytics,5/20/2024 13:30,5/20/2024 14:30,210,FALSE,FALSE
+210,Statistical Learning and Artificial Intelligence for Quality Control I,5/20/2024 8:00,5/20/2024 9:20,211,FALSE,FALSE
+211,Statistical Learning and Artificial Intelligence for Quality Control II,5/19/2024 13:30,5/19/2024 14:50,212,FALSE,FALSE
+212,Statistical Learning and Artificial Intelligence for Quality Control III,5/20/2024 12:00,5/20/2024 13:20,213,FALSE,FALSE
+213,Supply Chain & Scheduling,5/20/2024 16:30,5/20/2024 17:50,214,FALSE,FALSE
+214,Supply Chain Management,5/20/2024 15:20,5/20/2024 16:20,215,FALSE,FALSE
+215,Supply Chain Management and Transportation in Forestry,5/20/2024 13:30,5/20/2024 14:30,216,FALSE,FALSE
+216,Supply Chain Sustainability 1,5/20/2024 16:30,5/20/2024 17:50,217,FALSE,FALSE
+217,Supply Chain Sustainability 2,5/21/2024 8:00,5/21/2024 9:00,218,FALSE,FALSE
+218,Supply chain Risk & resilience 1,5/19/2024 16:30,5/19/2024 17:50,219,FALSE,FALSE
+219,Supply chain Risk & resilience 2,5/20/2024 15:00,5/20/2024 16:20,220,FALSE,FALSE
+220,Supply chain design 1,5/19/2024 12:00,5/19/2024 13:20,221,FALSE,FALSE
+221,Supply chain design 2,5/21/2024 8:00,5/21/2024 9:20,222,FALSE,FALSE
+222,Sustainability I,5/21/2024 8:00,5/21/2024 8:40,223,FALSE,FALSE
+223,Sustainability and equitable Operations,5/19/2024 8:00,5/19/2024 9:00,224,FALSE,FALSE
+224,Systems Engineering & Life Cycle Management I,5/20/2024 8:00,5/20/2024 9:00,225,FALSE,FALSE
+225,Systems Engineering & Life Cycle Management II,5/21/2024 13:30,5/21/2024 14:10,226,FALSE,FALSE
+227,"Systems Engineering, Logistics and Supply Chains for Human Factors and Ergonomics",5/20/2024 13:30,5/20/2024 14:50,228,FALSE,FALSE
+228,Teaming in Work Systems,5/19/2024 15:00,5/19/2024 16:20,229,FALSE,FALSE
+229,Technology and Digital Economy,5/20/2024 15:00,5/20/2024 16:20,230,FALSE,FALSE
+230,Towards Responsible Production: Innovations in Sustainability and Ethical Practices (SDG 12),5/19/2024 13:30,5/19/2024 14:50,231,FALSE,FALSE
+232,UAV logistics,5/20/2024 15:00,5/20/2024 16:00,233,FALSE,FALSE
+233,Unique directions in Energy Research,5/21/2024 12:00,5/21/2024 13:20,234,FALSE,FALSE
+234,"Unlocking the Potential of Clean Affordable Energy: Innovations in Biomass, Biofuels, and Offshore Wind (SDG 7)",5/20/2024 15:00,5/20/2024 16:00,235,FALSE,FALSE
+236,Urban Logistics,5/20/2024 12:00,5/20/2024 13:20,237,FALSE,FALSE
+237,Warehousing,5/19/2024 16:30,5/19/2024 17:50,238,FALSE,FALSE
+239,Work Systems I,5/19/2024 12:00,5/19/2024 13:00,240,FALSE,FALSE
+240,Work environment in health systems,5/19/2024 15:00,5/19/2024 16:20,241,FALSE,FALSE
+241,Work systems and services for Human Factors and Ergonomics,5/20/2024 12:00,5/20/2024 13:20,242,FALSE,FALSE
+11,"Advancements in Bioprinting: Techniques, Materials, and Applications",5/21/2024 13:30,5/21/2024 14:30,12,TRUE,FALSE
+68,Engineering Management Best Student Papers,5/20/2024 16:30,5/20/2024 17:30,69,TRUE,FALSE
+69,Enhancing the Sustainability of Three Non-profits: Annual IISE Volunteer Project Review,5/20/2024 13:30,5/20/2024 14:50,70,TRUE,FALSE
+95,"IAB/YP Career Development Panel Discussion on Career Planning, your first job change, transitioning to senior management and retirement",5/21/2024 8:00,5/21/2024 9:20,96,TRUE,TRUE
+96,IISE Transactions Best Application Paper,5/20/2024 16:30,5/20/2024 17:50,97,TRUE,FALSE
+97,IISE Transactions Best Paper,5/20/2024 15:00,5/20/2024 16:20,98,TRUE,FALSE
+98,ISE Careers in Consulting Panel Discussion,5/20/2024 8:00,5/20/2024 9:20,99,TRUE,TRUE
+119,Learning from the Legends: A Panel Discussion with Wellington Award Winners,5/20/2024 16:30,5/20/2024 17:50,120,TRUE,TRUE
+120,Logistics & Supply Chain Best Paper Competition,5/19/2024 13:30,5/19/2024 14:50,121,TRUE,FALSE
+123,M&D Best Student Paper Competition,5/19/2024 12:00,5/19/2024 13:20,124,TRUE,FALSE
+132,Manufacturing & Design Best Track Paper,5/19/2024 8:00,5/19/2024 9:20,133,TRUE,FALSE
+158,Panel discussion - Humanitarian and Health Supply Chains,5/20/2024 8:00,5/20/2024 8:20,159,TRUE,TRUE
+166,Point A to P.E.: Professional Licensure for ISEs,5/19/2024 15:00,5/19/2024 16:20,167,TRUE,FALSE
+171,Preparing Students for Industry:  A panel discussion on the Win/Win benefits of Co-Op programs and a Case Study of Industry led “beyond the textbook” learning opportunites,5/20/2024 12:00,5/20/2024 13:20,172,TRUE,FALSE
+226,Systems Engineering in the ISE Curriculum,5/20/2024 13:55,5/20/2024 14:45,227,TRUE,FALSE
+235,Updating the Work Systems Body of Knowledge,5/20/2024 8:00,5/20/2024 8:20,236,TRUE,FALSE
+238,What Leaders Look For In Promoting IE’s Into Management,5/20/2024 13:30,5/20/2024 14:50,239,TRUE,FALSE

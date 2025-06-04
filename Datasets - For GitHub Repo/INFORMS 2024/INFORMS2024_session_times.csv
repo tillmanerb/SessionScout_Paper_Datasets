@@ -1,0 +1,1394 @@
+,session_id,session_name,start_datetime,end_datetime
+0,1,D-Wave Quantum Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1,2,GAMSPy and Data APIs for Streamlining Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2,3,Elevate your Optimization Practice with latest Advances in FICO® Xpress Solver and Xpress Insight,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3,4,Analyzing Multidimensional Data and building Predictive Models in an Interactive No Code Environment,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4,5,"Hexaly, a New Kind of Global Optimization Solver",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5,6,Linking Logistics Models: Combining ML and OR Through Ensembling and Horizontal Computing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+6,7,Introducing ChiAha – the Smart Manufacturing Digital Twin Toolkit,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+7,8,"What’s New in Gurobi 12.0: Helping You to Build, Solve, and Deploy Optimization Models",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+8,9,Littlefield 2.0: A New Version of the Online Game for Operations Management Courses,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+9,10,SAS Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+10,11,Healthcare Data Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+13,12,QSR Best Referred Paper,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+17,13,Knowledge Fusion for Modeling and Decision-making in Complex Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+22,14,Advanced Data Analytics for IoT-Enabled Smart and Connected Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+25,15,INFORMS JFIG Best Paper Competition II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+28,16,Location Analysis for Electric Vehicle Charging,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+33,17,AI in Healthcare and Medical Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+38,18,OR in Security & Defense I (Mission Support),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+43,19,Selected Auctions & Market Design papers from the EC 2024 conference III,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+47,20,Online Markets and Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+51,21,Statistical Network Analysis and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+54,22,Supply Chain and Inventory Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+57,23,Intelligent Transportation Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+62,24,Financial Engineering and FinTech,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+66,25,Deep Reinforcement Learning for Solving Inventory and Supply Chain Problems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+70,26,Efficient Learning Methods and Revenue Management Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+75,27,"Emerging Topics in Revenue Management: Digital Innovation, Estimation and Optimization",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+79,28,Learning in Sharing Economy and E-Commerce,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+84,29,Learning in Distributed and Dynamic Environments,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+87,30,Game Theory and its Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+91,31,Emerging Technologies in Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+95,32,Agricultural and Food Supply Chain Decision-Making for Societal Good,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+99,33,Multiobjective Optimization Under Uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+102,34,Optimizing Environmental Management: Simulation & Bioeconomics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+108,35,Creative Applications of AI,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+112,36,Managing in High Technology Environments,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+117,37,Product and Business Model Innovation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+122,38,"Recycling, Repurposing and Rebalancing in Precision Agriculture and Sustainable Systems",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+127,39,Advances in Network Optimization & Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+131,40,Modeling Problem Structure for Large Optimization Problems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+135,41,Machine Learning for Optimization - I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+139,42,Recent Advances in Bilevel Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+142,43,Advances in Data-driven Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+146,44,New Advances in Large-Scale Non-Linear Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+150,45,Improving Societal Outcomes with Logistical Innovations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+153,46,Innovative Strategies in Freight and Logistics: From Air Mobility to Electric Trucks,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+157,47,Semiconductor Industry and Batch Production,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+160,48,Emerging Delivery Technology,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+164,49,Behavior in Queueing and Service Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+168,50,Learning in Revenue Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+172,51,Yunbei Xu and Ayush Sekhari session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+177,52,Algorithmic Accountability,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+180,53,Recent Development in Simulation Analysis Methodology,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+185,54,Healthcare Operations & Behavioral Influences,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+188,55,Models for Medical Decision Making and Health Policy,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+193,56,Stochastic Modeling for Decision Making in the Cancer Care Continuum,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+197,57,Advances in Sustainable Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+202,58,Empirical Analysis of New Retail Models,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+206,59,Emerging-Market Retail Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+209,60,Emerging Topics in iFORM,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+213,61,Reinforcement Learning and Causal Inference with Applications in Service Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+218,62,Emerging Topics on Digital Economy and Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+223,63,Frontiers in Sequential Learning and Experimentation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+228,64,Humanitarian and Disaster Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+233,65,Convergence of Multi-sectoral Operations Research,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+239,66,Revolutionizing Patient Care: The Fusion of Machine Learning and Optimization Techniques,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+244,67,Severe Trauma,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+248,68,Optimizing Last Mile Efficiency at Amazon,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+252,69,Cutting-Edge Research in Federated Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+256,70,Nanoretail Operations in Developing Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+257,71,Technological Transformation: AI's Role in Shaping Future Societies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+261,72,Unpacking Inequalities in Social Media Algorithms and UGC,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+265,73,NSF Program Director Panel,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+270,74,AI-augmented Dynamic Decisions in Business,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+273,75,Case Competition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+276,76,Doing Good with Good OR,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+280,77,Human Engagement in AI and Digital Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+284,78,Why I Love Applied Probability,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+288,79,"Statistical Learning via Generative Models, Simulation, and Optimization",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+292,80,Generative AI for Decision Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+297,81,Waiting Time Prediction using Machine Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+300,82,Optimization and Learning for Future Electricity Market Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+304,83,Net-Zero Emissions Energy Systems: Equitable Transitions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+309,84,"Data-Driven, Human-Centered Decision Making in Stochastic Service Systems",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+313,85,Logistics under Contested Conditions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+317,86,Advanced Computational Algorithms for Decision-making Process,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+321,87,How OR Helps the United Nations Deliver Food and Hope,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+322,88,People Operations and Bias,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+326,89,QSR Best Student Paper Competition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+330,90,"Modeling, Learning, and Leveraging Heterogeneous Information in Smart and Connected Systems",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+335,91,Spatial-Temporal Event Data Analytic,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+339,92,INFORMS JFIG Best Paper Competition I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+342,93,Facility/Hub Location,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+346,94,Social Responsibility in Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+351,95,OR in Security & Defense I (Operations),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+355,96,Design and Analysis of Marketplaces,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+359,97,Frontiers of Platform Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+364,98,New Applications of Network Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+369,99,Logistics and Sustainable Transportation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+374,100,Autonomous Logistics and Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+379,101,Financial Analytics and Technology,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+382,102,Trending Themes in Innovation and Development,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+385,103,Bora Keskin's RM&P Session (Prominent Students incl. Job Market Candidates),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+389,104,RMP in the Supply Chain Context,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+393,105,Revenue Management and Online Platform Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+398,106,Mechanism Design Under Uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+401,107,Human-Centered AI and Decision Analysis for Social Good,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+406,108,Reinventing Business Models Amidst New Market Dynamics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+409,109,Wisdom of the Crowd/Forecast Aggregation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+414,110,The MCDM Junior Researcher Best Paper Award Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+417,111,Corporate Governance and Firm Performance,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+418,112,PSOR Best Paper Award Finalists,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+423,113,Recent Developments in Innovation Contests,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+426,114,Online Reviews and Performance,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+430,115,"Sustainable Sourcing, Consumer Response, and Environmental Risks",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+435,116,Optimization Society's Award Session I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+438,117,Network Flows and Parametric Cuts in Machine Learning and Advanced Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+442,118,Machine Learning for Optimization - II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+446,119,Recent Advances in Data-driven Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+451,120,Advances in Stochastic Programming: Theory and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+455,121,Recent Advances in Min-Max Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+459,122,Learning in Transportation Network Modeling,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+463,123,Human-centric Warehouse and Order Fulfillment Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+467,124,Data-driven and Optimization Foundations for Emerging Mobility Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+471,125,Reliable and Scalable Urban Air Mobility,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+475,126,2024 RAS Student Paper Competition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+479,127,New Topics in BOM,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+483,128,Queueing Theory and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+487,129,Generative Diffusion Models: Theories and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+491,130,Design of Experiments: From A/B Testing to Adaptive Experimentation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+496,131,Simulation Models for Intermodal Transportation and Future Mobility,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+501,132,Emerging Technologies in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+505,133,Drone Use in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+509,134,Data-driven Research on Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+513,135,Revenue Management in Supply Chain,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+517,136,Operations and Society,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+520,137,Responsible Operations and Workforce Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+524,138,Empirical Studies in OM and Finance Interface,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+529,139,Technology and Future of Work,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+533,140,"Supply Transparency, Food Waste, and Carbon Emissions",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+537,141,Ethically and Environmentally Responsible Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+542,142,Humanitarian and Disaster Operations Management II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+547,143,Substance Use Disorders and Other Stigmatized Medical Needs,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+554,144,Innovative Applications of Optimization Techniques in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+559,145,Bonder Scholars Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+563,146,Where Were you When you First Heard about OR -- and What About the Future of the Profession,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+569,147,Order Fulfillment Optimization within 4 walls of Amazon Warehouses,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+574,148,Why I Love Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+579,149,Humanitarian Operations and Earmarked Funding,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+580,150,Economics of Information Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+584,151,Social Media Analytics Student Paper Contest,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+588,152,Pedagogical Design and Innovations for Analytics Education,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+592,153,Multitask and Federated Learning: Challenges of Optimization Under Heterogeneity,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+595,154,Daniel H. Wagner Competition I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+597,155,Undergradutate Operations Research Prize I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+601,156,"Generative AI, Algorithmic Bias, and Dynamics in Digital Disruptions",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+606,157,Data-driven Analytics for Applications in Water and Food Supply,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+610,158,Online Learning and Data-driven Decision Making: Recent Advances and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+615,159,Machine Learning Aided Causal Inference,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+619,160,Data Mining Best Paper Competition (Student Track),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+623,161,Issues in Energy Market Modeling,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+628,162,Planning the Electric Grid for Climate Change,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+632,163,Multi-Objective Decision Support Systems for Coping with Deep Uncertainties,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+637,164,Network Models in Optimization and Their Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+641,165,Optimization Modeling Software II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+645,166,New Models for Project Management and Scheduling Under Uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+649,167,Journal of Quality Technology Invited Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+653,168,From Data to Decisions: Advancing Smart Healthcare through Machine Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+656,169,Computation Service and Data Quality in Manufacturing Industrial Internet,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+660,170,DEI Ambassador Program,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+669,171,Facility/Hub Location 2,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+672,172,Innovative Applications in Business and Technology,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+678,173,Optimization Applications in Defense,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+682,174,Social Aspects of Data and AI,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+687,175,Selected Auctions & Market Design papers from the EC 2024 conference II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+691,176,Network Analysis and Graph Neural Networks I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+694,177,Sustainability and Power System Efficiency,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+702,178,Diversity and Organizational Dynamics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+707,179,Blockchain and Governance,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+711,180,Advancements in Choice Modeling and Assortment Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+715,181,[tent] Emerging Topics in Pricing and Revenue Management in Retail Industry,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+719,182,Emerging Techniques in Revenue Management and Logistics Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+723,183,Empirical Research in Revenue Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+727,184,Revenue Management: From Theory to Practice,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+732,185,Predictive Analytics for High-Stakes Decision Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+736,186,Business Intelligence and Technology Innovation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+741,187,Strategic Mechanisms in Contemporary Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+746,188,"Theory, Algorithms, and Applications of Multi-objective Optimization",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+751,189,Innovative Approaches in Stochastic and Explanatory Modeling,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+756,190,PSOR Best Video Award Finalists,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+761,191,Open Innovation & New Product Development,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+765,192,Emerging Topics in NPD and Innovation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+769,193,Empirical Research in Sustainable Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+772,194,Optimization Society's Award Session II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+775,195,Large-Scale Methods for Linear and Nonlinear Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+779,196,Methods for Large-Scale Nonlinear and Stochastic Optimization I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+783,197,Recent Advances in Mixed-Integer Nonlinear Programming,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+788,198,Journal of the Operational Research Society 75th Anniversary,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+791,199,"Advances in Nonlinear, Stochastic, and Constrained Optimization",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+795,200,Learning in Transportation Network Modeling (Part 2),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+799,201,New Applications of Routing Problems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+804,202,Transportation and Optimization for Strategic Decisions and Policymaking,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+809,203,AAS Student Presentation Competition I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+814,204,Railway Timetabling and Demand Forecasting,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+818,205,Human-in-the-loop in Forecast and Inventory Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+821,206,Causal Inference & ML,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+825,207,Topics in Data-driven Stochastic Optimal Control,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+828,208,Learning in Changing Environments,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+832,209,Active Learning for Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+837,210,Editorial Insights: A Panel Discussion with Healthcare Journal Editors,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+843,211,Health Applications in Preventive Medicine,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+848,212,Decision Making in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+852,213,Machine Learning Applications on Inventory Models,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+857,214,New Advancements in Partially Observable Markov Decision Processes (POMDPs),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+861,215,Retail Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+865,216,Sustainability and Technology,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+869,217,Enhancing Service Operations in Digital Platforms and Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+873,218,Additive Manufacturing Applications in Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+877,219,Agriculture and Food Technology and Innovation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+881,220,Civic Engagement and Community Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+886,221,Implementing DEI Initiatives in Universities: Success Stories and Remaining Hurdles,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+892,222,Operations Research and Machine Learning for Maternal Health,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+896,223,Analytics for Social Good: Public Sector Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+900,224,Advanced Modeling Techniques in Infectious Disease Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+904,225,Transportation and Network Optimization at Amazon,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+908,226,Navigating Impactful Careers Outside Academia: Insights and Perspectives,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+914,227,"Nonconvex, Nonsmooth, and Nonregular Optimization: A Computational Framework",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+915,228,Innovative Application of AI in Information Systems Research,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+920,229,"Social media, Transfer Learning, and AI",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+923,230,Frontiers in Causal Inference,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+927,231,Daniel H. Wagner Competition II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+929,232,Undergradutate Operations Research Prize II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+933,233,Impacts of Emerging Technologies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+937,234,Optimization Approaches to Enhancing Biodiversity,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+941,235,Advanced Algorithms for Machine Learning and Discrete Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+945,236,Socially and Environmentally Responsible Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+949,237,MSOM Student Paper Competition Finalists,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+953,238,ENRE: Risk Analysis for Electricity Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+957,239,"Modeling the Impact of Climate Change on the Electric Power Sector: Inputs, Assumptions, and Use Cases",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+962,240,Critical Mineral and Lithium Supply Chains for Clean Energy Technologies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+966,241,Towards a Sustainable Resilient Future - Part B,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+970,242,Discrete Optimization and Machine Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+973,243,MIF Student Poster Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+995,244,Exploring and Maintaining Teaching Stream Careers in Academia,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+999,245,New Models and Theory,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1004,246,IISE Transactions Invited Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1007,247,Deep Neural Network Methodologies for High Dimensional Data in Engineering Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1011,248,Advanced Machine Learning and Artificial Intelligence for Healthcare Diagnostics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1014,249,DEI Best Student Paper Award I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1017,250,Emerging Topics in Location Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1018,251,Language Models and Intelligible AI,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1023,252,OR in Security & Defense III (Mission Support),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1027,253,Michael H. Rothkopf Junior Researcher Paper Prize,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1030,254,"Prompt Engineering, Fine Tuning, Alignment and Market Applications of Large Language Models",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1034,255,Network Analysis and Graph Neural Networks II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1037,256,Digital Innovation and Social Media,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1045,257,Healthcare Resource Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1049,258,Climate Financial Risk,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1053,259,Innovations in Data-driven Marketplaces,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1058,260,"Bounds, Heuristics, and Personalized Assortments",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1061,261,AI and Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1065,262,Learning and Causal Inference,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1069,263,"Exploration, Experimental Design, and Algorithmic Decision Making",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1073,264,Advancements in Online Sequential Decision-Making: Theory and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1078,265,Control Applications in Finance,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1082,266,"Utility, Sharing, and the Value of Information",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1087,267,Multiple Objective Optimization and Decision Processes,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1092,268,Optimizing Impact in Nonprofits and Alliances,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1095,269,Predictive Models and Strategies in Global Health,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1099,270,Blockchain Applications Across Industries,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1104,271,Current Research on AI,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1108,272,Business and Climate Change,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1111,273,Network Optimization in Power Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1115,274,Operator Splitting Methods for Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1119,275,Discrete Optimization for Machine Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1124,276,Exact Approaches for Multistage Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1127,277,Advances in Stochastic Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1131,278,Methods for Large-Scale Nonlinear and Stochastic Optimization II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1135,279,Data-driven Decision-making in Urban Mobility,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1140,280,Optimization and Decarbonization of Multi-modal Freight Transportation Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1145,281,Game Theory in Smart Mobility,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1150,282,AAS Student Presentation Competition II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1154,283,"Railway Scheduling and Management of Crews, Intermodal, Yards and Networks",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1160,284,Socially Responsible Behavioral OM,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1163,285,Algorithm Design for Randomized Experiments,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1167,286,Statistical Reinforcement Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1171,287,Strategic and Distributionally Robust Sequential Decision Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1175,288,Recent Advances in Stochastic Simulation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1180,289,Broadening the Reach of OR for Healthcare: Publishing in Non-OR/IE Journals,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1184,290,Featured Journal - Health Care Management Science,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1190,291,AI and Information Technology in Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1193,292,Platform and AI,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1197,293,Public Health Decision-Making for Infectious Diseases,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1201,294,Financing Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1206,295,Stochastic Modeling in Energy Transition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1211,296,Data Analytics in Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1215,297,"Causality, Experimentation, and Machine Learning in Digital Platforms",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1218,298,Analytics for the Greater Good,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1223,299,Modeling Societal Challenges with OR,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1228,300,Data-driven Modeling for Opioid and Substance-related Public Health Challenges,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1232,301,Public Policy and Well-Being,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1235,302,APS Distinguished Speakers: Mengdi Wang and Minshuo Chen,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1237,303,Strategic Supply Chain Network Optimization at Walmart,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1242,304,Solo-preneur Consulting,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1247,305,Experimental Design For Causal Inference Through An Optimization Lens,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1248,306,Human-AI Interaction in Business,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1253,307,"Data-Driven Decision Making: Harnessing Multimedia, Social Media, Big Data, and Machine Learning for Business Excellence",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1258,308,"Reimagining Assessments, Unleashing Creativity, and Grading with GenAI",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1262,309,Stochastic Approximation (SA) and Stochastic Gradient Descent (SGD) for Machine Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1266,310,Challenges and Innovations in Sustainable Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1269,311,Nicholson Student Paper Competition I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1273,312,AI and AI,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1277,313,Climate Finance and Transition Risk,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1281,314,Generative Artificial Intelligence for Physics Science and Acceleration,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1285,315,Sequential Learning: Optimization and Prediction Under Uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1289,316,Emerging Trends in Interpretable Machine Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1294,317,Long-Term Power System Expansion Planning with New Renewable Fuels,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1298,318,Climate Uncertainty and Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1303,319,Energy Systems Modeling and Optimization II: EV Integration Under Uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1308,320,Computation in Conic Programming,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1311,321,Recent Advances in Decision Rules for Stochastic and Robust Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1315,322,QSR Student Poster Competition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1343,323,Platform Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1348,324,Quality Control in Industry 4.0,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1352,325,Machine Learning for Quality Control,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1355,326,Statistical Machine Learning for Complex Data,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1359,327,DEI Best Student Paper Award II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1362,328,Location Analysis for Architectural Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1367,329,Innovations in Logistics and Transportation Networks,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1372,330,Operations Planning to Ensure Food Security,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1377,331,Operations and Market Design for Education,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1381,332,Job Market Candidates Session Focusing on Social Impact Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1385,333,Network Analytics at Amazon Last Mile Logistics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1390,334,Vehicle Routing and Last Mile Delivery,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1397,335,Financial and Risk Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1406,336,Resource Allocation Beyond Standard Assumptions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1410,337,Advances in Revenue Management: From Theory to Practice,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1414,338,How Competition Can Disrupt Machine Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1419,339,Learning and Optimization in Risk and Revenue Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1423,340,Pricing and Yield Management at Amazon,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1426,341,Advanced Decision Technologies for Industry Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1430,342,Machine Learning and Data Analytics for Robust Decision-Making in Complex Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1435,343,Integrating Generative AI with Sequential Decision-Making: Theoretical Advances and Practical Applications (I),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1439,344,Multi-Criteria Decision-Making Under Uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1442,345,Technological Change and Social Impact,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1447,346,Information Seeking Behavior in Decision Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1450,347,Convex and Stochastic Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1456,348,Impact of AI on New Product Development: A Panel Discussion,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1462,349,Recent Development in Sustainable and Socially Responsible Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1467,350,Infrastructure Network Resilience,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1471,351,Advances in Conic Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1474,352,New Min-max Optimization Algorithms and Their Applications in Machine  Learning and AI,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1478,353,"Robustness at the Intersection of Optimization, Statistics, and Machine Learning",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1482,354,Distributional Robustness and Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1486,355,Methods for Large-Scale Nonlinear and Stochastic Optimization III,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1490,356,Labor Planning at Amazon: Handling Uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1494,357,Design and Optimization of Societally-aware Mobility Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1499,358,Robust and Fair Optimization Problems in Transportation and Supply Chain,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1504,359,RAS Problem Solving Competition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1508,360,Intelligent Suggestions: Empowering Human Decision Dynamics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1511,361,Experimental Design and A/B Tests in Practice,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1515,362,Navigating Distributions using Optimal Transport,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1519,363,Learning and Control of Queueing Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1523,364,Bayesian Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1527,365,Integrating Healthcare Research and Practice: Challenges and Opportunities,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1533,366,Operations in Health Care and Public Sectors,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1537,367,Pierskalla Best Paper Competition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1541,368,Cachon / Lariviere / Roels / Taylor Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1545,369,Healthcare Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1549,370,Innovations in Health Care Delivery,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1553,371,"Commodities, Risk Management, Hedging, and Analytics",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1557,372,Ride-Hailing and Platform Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1562,373,Managing Supply Chain Risks with Emerging Considerations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1566,374,Job Market Candidates' Session Focusing on Social Impact Operations at the Base of the Pyramid,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1570,375,Community-engaged and Equity-forward Operations Research and Analytics I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1574,376,MIF Early Career Award,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1576,377,Mathematical Modeling to Inform Decisions in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1580,378,Funding for Healthcare Research,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1584,379,APS Best Student Paper Competition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1588,380,ML and Optimization Driven Fulfillment Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1591,381,Educating in the Age of AI: Future-proofing OR Practitioners,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1598,382,Machine Learning Methods for Large Population Games,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1599,383,Secondary Effects of the (Generative) AI Revolution,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1602,384,Artificial Intelligence and Digital Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1606,385,NSF Proposal Writing Workshop,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1608,386,Advancements in Time Series Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1614,387,George B. Dantzig Dissertation Award,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1618,388,Nicholson Student Paper Competition II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1622,389,The Economics of eBusiness,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1627,390,Operations Research Approaches to Wildfire Prevention and Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1630,391,Machine Learning for Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1634,392,Roundoff-Error-Free Solutions of Optimization Problems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1638,393,Statistical and Machine Learning in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1643,394,Optimization and Data Analytics for Agriculture Operations and Biomass Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1648,395,Industry-Research Analysis Partnerships to Inform Energy Infrastructure Decisions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1651,396,Energy Systems Modeling and Optimization IV: Emerging and Distributed Energy Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1656,397,Emerging Applications and Algorithms in Logistics and Urban Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1661,398,A Tutorial on Automated Decomposition Methods for Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1665,399,2024 INFORMS UPS George D. Smith Prize Reprise Presentation: University of South Carolina,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1666,400,"Smarter Decisions Towards Preventing, Controlling, and Eliminating Infectious Diseases",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1667,401,Philip McCord Morse Lectureship,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1668,402,"Scheduling, Bike Sharing and Other Supply Chain Issues",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1673,403,Data Science in Wind Energy,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1677,404,Cost-Efficient Computational Methods for Intelligent Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1682,405,System Dynamics and Sensor-Driven Data Analytics in Complex System Reliability,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1686,406,"Diversity, Equity and Inclusion Special Issue of POM: Impacts and Implications for Scholarship",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1692,407,Location Models,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1697,408,Optimization and Decision Models,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1703,409,Transportation Analytics in Military and Security Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1707,410,Social Good Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1711,411,Combinatorial Auctions / LLMs,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1715,412,Logistics Optimization: Routing and Delivery,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1720,413,AI Advancements and Business Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1726,414,Blockchain Economics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1730,415,Revenue Management and Marketplace Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1735,416,Online Decision Making Algorithms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1739,417,Predictive and Constraint Based Learning Techniques with Business Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1744,418,Analytics for Social Good,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1748,419,Sequential Decision Making Under Uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1752,420,Online Learning and Decision-making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1756,421,Advanced Decision Strategies: Integrative Approaches from Machine Learning to Practical Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1761,422,Machine Learning and Causal Inference,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1765,423,Multi-objective Optimization: Methods and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1770,424,Optimization Techniques in Network and Scheduling,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1775,425,Gurobi/Nextmv,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1777,426,Advanced Network and Optimization Techniques for Resilient Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1782,427,Models of Entrepreneurship and Innovation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1787,428,Leveraging Research Centers for Sustainable Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1791,429,Quantum Computing and Optimization (Part 1),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1796,430,"Interplay Between Optimization, Statistics, and Learning - Part I",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1800,431,Recent Advances in Online Decision Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1804,432,Efficient Methods for Large-scale Optimization Using Inexactness I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1808,433,Advances in Continuous Optimization Algorithms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1812,434,Amazon Flexible Under-the-Roof Capacity Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1818,435,Dynamic Decision-Making in Last-Mile Fulfillment,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1821,436,Emerging Topics in Transportation and Logistics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1826,437,Air Transport Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1832,438,Operations Research and Analytics at BNSF Railway,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1837,439,Empirical Research in Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1841,440,Machine Learning for Queueing Model Discovery and Control,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1845,441,Large-Scale Stochastic Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1849,442,Multiserver & Preemptive Scheduling,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1854,443,Simulation and Generative AI,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1858,444,Economics of Pharmaceutical Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1862,445,AI in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1866,446,OR and Other Analytical Approaches for Healthcare Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1871,447,Topics in Platform Economy,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1875,448,Applications of Stochastic Models in Service Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1879,449,Advances in Empirical Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1883,450,NFT and Platform Innovation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1887,451,Operational Decision-Making Under Uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1890,452,Operational Data Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1894,453,Bias in Online Reviews and Evaluations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1899,454,Towards a Sustainable Resilient Future - Part A,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1903,455,Life in Academia,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1908,456,Healthcare Decision Models,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1913,457,Junior Faculty Lightning Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1925,458,Amazon Last-Mile Resource Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1930,459,How Do We Explain to OUr Neighbors What We Do,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1933,460,Food Bank Operations: A U.S. Perspective on Humanitarian Food Assistance,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1934,461,Emerging Topics in IS,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1938,462,Social Media Analytics on E-Commerce,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1941,463,"Power of LLMs in the Analytics Classroom: The Good, the Bad, and the Inevitable I",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1945,464,AI in Mining and Mineral Processing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1950,465,AI in Financial Ethics and Fraud Detection,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1953,466,Hydrogen Production and Emission Strategies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1956,467,Digital Technologies in Business,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1960,468,Power Systems on the Road Between Optimization and Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1965,469,Developing Machine Learning Methods for Complex Data Distributions and Structures,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1970,470,Machine Learning for Heterogeneous Data Fusion,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1975,471,INFORMS Journal on Data Science (IJDS) Spotlight Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1979,472,Power System Operation and Planning Under Uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1983,473,Advancements in Learning and Control for Power Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1988,474,Energy Systems Modeling and Optimization VI: Methods for Modern Power Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1992,475,Interfaces Between Simulation and Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+1997,476,Simulation & Analytics for Sustainable and Resilient Urban Networks - Session 2,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2001,477,Making the most of this AI Moment: A Fireside Chat with Charles Isbell and Michael Littman,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2002,478,Information Sharing in Service Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2006,479,Junior Faculty Network Session Across Societies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2031,480,Data Analytics and Machine Learning for Advanced Manufacturing processes,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2035,481,Modeling Complex and High-dimensional Data for Healthcare Engineering,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2038,482,DEI Special Issue of Production and Operations Management: Selected Papers,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2041,483,"Meet the Editors Panel: Supply Chain & Logistics, IISE Transactions",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2045,484,Infrastructure Planning to Address Climate Change,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2049,485,OR in Defense Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2053,486,"Algorithms, Inference, and Incentives",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2058,487,Session on Networks and Platform Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2061,488,Machine Learning and Urban Network Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2067,489,Agricultural Economics and Food Security Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2070,490,Games and Markov Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2076,491,Tensor Factor Models in Finance and Business,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2080,492,Matchings in Random Graphs,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2084,493,New Approaches for Matching Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2088,494,Consumer Choice and Search,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2092,495,The Theory and Practice of Revenue Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2096,496,Advances in Market Algorithms and Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2100,497,Equilibrium in Complicated Games and Applications II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2104,498,Equilibrium in Complicated Games and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2109,499,"Data-Driven Excellence in Healthcare: Merging Optimization, Stochastic Decision-Making, and Operations Management",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2112,500,Building MCDM/A Models: Practical and Methodological Issues,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2117,501,Advancements in Robotics and AI Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2121,502,Hexaly/Artelys,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2123,503,Academic Job Search Panel,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2128,504,TIMES Best Dissertation Award 2024,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2133,505,Waste and the Circular Economy,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2138,506,Advances in network optimization under uncertainties: Theories and applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2142,507,Quantum Computing and Optimization (Part 2),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2147,508,"Interplay Between Optimization, Statistics, and Learning	- Part II",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2151,509,Optimization under Non-Stationary Environments,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2155,510,Data-Driven Methods for Robust and Distributionally Robust Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2160,511,Optimization Issues in Recent AI Models,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2165,512,Panel: Practitioners' View on Transportation and Logistics Research,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2169,513,Facility Design and Operations in Emerging Mobility Services,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2173,514,Simulation and Learning for Smart Transportation Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2178,515,Machine Learning Application in Aviation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2182,516,Railway Technology Innovations and Modeling,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2186,517,Responsible Research in Behavioral Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2190,518,Advancements in Optimal Control of Queues: Innovations and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2194,519,The Power of Optimization in Sequential Decision Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2198,520,Stochastic Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2202,521,Simulation (tentative title),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2207,522,Innovative Interventions for Advancing Public Health,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2211,523,HAS Distinguished Lecturers Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2214,524,Multimodal AI for Medicine and Hospital Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2218,525,Managing Product Returns,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2222,526,Empirical Platform Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2227,527,Empirical Research in Supply-Chain Networks,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2231,528,Research at iFORM with Social Considerations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2235,529,Causal Inference for Dynamic Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2238,530,Modeling and Analytics in Humanitarian Logistics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2243,531,MSOM TIE Panel,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2250,532,Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2254,533,Academic and Industry Job Search,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2259,534,Advances in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2263,535,Careers in Healthcare Panel Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2269,536,APS Distinguished Speaker: Jim Dai,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2270,537,Amazon Supply Chain Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2274,538,What’s in a Name?,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2278,539,Combining Large Language Models and OR/MS to Make Smarter Decisions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2279,540,Navigating the New Frontier: The Intersection of Artificial Intelligence and the Future of Work,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2283,541,Modern Statistics in Social Media Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2287,542,"Power of LLMs in the Analytics Classroom: The Good, the Bad, and the Inevitable II",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2291,543,AI in SCM,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2294,544,2024 INFORMS Prize,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2295,545,Analytics in Healthcare Decision Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2300,546,Digital Strategy,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2304,547,ENRE: Optimization and Learning for Sustainable Grids,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2307,548,Data Mining on Electronic Health Records: Extracting Key Features and Patterns Using Machine/Deep Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2310,549,AI and Analytics for Good,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2314,550,Advances in Healthcare Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2317,551,Flexibility Analysis for Renewable Dominated Power Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2321,552,Futuristic Planning in Energy Generation and Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2327,553,Power System Planning and Operation IV: Stochastic Energy Infrastructure Planning at Scale,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2331,554,Data-Driven Optimization for Reliable Machine Learning (I),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2335,555,Decision Diagrams for Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2338,556,E-commerce Supply Chain Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2342,557,QSR Student Introduction and Interaction,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2348,558,Recent Advances in Design and Analysis of Computer Experiments,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2353,559,"High-dimensional Data Analysis: Modeling, Monitoring and Control",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2357,560,"Diversity, Equity, and Inclusion Research in Operations Management",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2361,561,Pricing and Selling Strategies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2365,562,Facility Management and Network Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2370,563,Working in Military and Security,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2375,564,Learning in Online Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2379,565,Learning Augmented Mechanism Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2383,566,"AI, Collaboration, and IT Procurement Innovations",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2387,567,Optimizing Networked Environments and Demand Matching,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2393,568,Advanced Analytics in Health and Well-being,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2399,569,Machine Learning in Finance I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2403,570,Sequential Learning Problems in Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2407,571,"Frontiers of Sequential Optimization: Learning, Algorithmic Advice, and Information Design",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2411,572,Sustainable and Responsible Revenue Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2415,573,Bundling and Opaque Selling Strategies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2419,574,Optimization for Portfolio Selection,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2425,575,Advances in Information Design and Platform Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2430,576,Healthcare Analytics and Decision Support Systems For Improved Patients Outcome,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2433,577,Education Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2437,578,Group Decision Making for Sustainable Development,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2441,579,Advanced Analytics: Insights and Innovations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2446,580,Gams/D-Wave,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2448,581,Advanced Algorithms and Stochastic Modeling in Complex Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2454,582,TIMES Best Working Paper Award 2024,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2458,583,Strategies and Insights on Workforce Training,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2460,584,Recent Advances in Mixed-Integer Nonlinear Programming,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2465,585,Optimization Software Session I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2470,586,Recent Advances in Statistical Learning and Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2474,587,Theory and Applications of Stochastic Programs,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2478,588,Methods for Large-Scale Nonlinear and Stochastic Optimization IV,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2481,589,Novel First-order Methods via Performance Estimation Programming,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2485,590,TSL and TS Best Paper Award,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2490,591,Machine Learning/Reinforcement Learning for Vehicle Routing Problems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2495,592,"Emerging Technologies (AVs, EVs, robots, lockers, etc.)",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2499,593,Competition in the Aviation Industry,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2503,594,RAS Round Table on Railway Service Reliability - Part 1,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2509,595,Sustainability and Donations in Behavioral Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2513,596,Online Learning in Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2517,597,Advances in Adaptive Experimentation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2521,598,Robust MDPs and Reinforcement Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2526,599,Large-Scale Simulation Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2530,600,Optimizing Hospital and Public Health Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2534,601,Medical Decision Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2539,602,Analytics for Pharmaceutical Shortages,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2543,603,Frontiers in Inventory Control: Asymptotic Analysis and Demand Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2548,604,Social Impact of Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2553,605,Empirical Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2558,606,Supply Chain Finance and Risk Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2560,607,Information Provision and Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2564,608,Advances in Sustainable Supply Chains: Theory and Practice,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2568,609,"Operational Insights into Innovation, Economics, and Digitalization",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2573,610,Analytics for Societal Impact,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2577,611,Writing Strategies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2582,612,Empirical Research in Healthcare Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2586,613,"Responsible Optimization, ML, and AI in Healthcare",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2591,614,APS Distinguished Speaker: Dylan Foster,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2592,615,Under the Roof Process Design and Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2596,616,How to Start an Edelman-Worthy Project,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2603,617,Interventions for Patients with Complex Medical and Social Needs,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2604,618,Social Media Insights and Innovations: Unveiling New Trends and Perspectives,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2608,619,Harnessing the Power of AI and Analytics for Digital Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2612,620,Teaching Data Analytics with Low Code Tools,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2617,621,Emerging Problems in Platform Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2621,622,"AI, Operations, and Platforms",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2625,623,Revolutionizing Healthcare: Advanced AI and Data Analytics for Decision Support,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2630,624,Yu Kan's Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2635,625,Next-generation Energy Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2640,626,"Modern High-Dimensional Inference - Theory, Methods and Applications",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2644,627,"Expanding AI Boundaries to Education, eCommerce, and Sustainable Urban Mobility",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2647,628,Mining for Health: Data Mining for Personalized Care and Operational Efficiency,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2650,629,Toward Resilient Power Systems: Advanced Methodologies for Uncertainty Management During Extreme Events,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2655,630,Sustainable and Responsible Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2659,631,Energy Systems Modeling and Optimization VII: Macroenergy Systems (MES),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2664,632,Data-Driven Optimization for Reliable Machine Learning (II),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2668,633,Advanced Optimization for Mixed Integer Programming,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2672,634,Monday Poster Competition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2683,635,Monday Poster Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2789,636,Scheduling and Its Contemporary Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2794,637,Manufacturing AI Case Study Competition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2797,638,Advanced Data Analysis for Interconnected and Distributed Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2801,639,Data Science for Cyber-Physical Security and Resilience,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2806,640,Models for Supply Chain Resilience and Disruption,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2809,641,Emerging Markets: Challenges and Opportunities,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2812,642,Data Science in Healthcare and Policy,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2820,643,MAS Student Interactive Presentations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2823,644,Autonomous Vehicle Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2827,645,Learning and Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2832,646,Digital Platform Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2836,647,Pricing Strategies and Consumer Insights,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2843,648,Optimization in Supply Chain Network Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2847,649,ML/data-driven Decision-making in Finance,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2850,650,Online Decision Making with Various Forms of Predictions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2854,651,RMP for Online Retail,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2858,652,New Trends in Discrete Choice Models,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2862,653,Advances in Experimentation and Policy Learning in Managerial Settings,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2866,654,Strategic Dynamics and Optimization in Crowdfunding and Start-Ups,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2871,655,Decision Analysis Through Information Sharing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2876,656,Making Army Installations More Resilient,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2881,657,Integrating Generative AI with Sequential Decision-Making: Theoretical Advances and Practical Applications (II),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2886,658,On the Fairness for Optimization and Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2892,659,"Optimizing Digital Content, Revenue, and Education Strategies",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2897,660,MathWorks/ChiAha,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2899,661,Industry Job Search Panel,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2906,662,AI Process Innovation: Connection to the Human Element,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2910,663,Leveraging Access to Data to Improve Access to Social Services,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2914,664,ONR Program Review: Integer and Discrete Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2918,665,Optimization Software Session II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2922,666,Learning and Applications of Mean Field Models and Multi Agent Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2926,667,Advances of Reformulation Methods in General Integer Programming,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2930,668,Distributional Robustness and Sequential Decision-Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2934,669,Game Theory and Optimization: Minimax and Variational Inequality Approaches,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2938,670,TSL Dissertation Award and Information for the TSL Data-Driven Research Challenge,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2941,671,Behavioral-informed Analytics and Decision-making for Urban Transportation Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2944,672,Innovative Last-Mile Solutions for Passengers and Freight,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2948,673,Airfield and Airspace Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2952,674,RAS Round Table on Railway Service Reliability - Part 2,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2959,675,Emerging Topics in Behavioral Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2963,676,"Randomized Experiments, A/B Tests, and Observational Studies",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2967,677,Sequential Decision-Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2971,678,Exciting New Applications in Applied Probability,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2975,679,Simulation Optimization and AI,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2980,680,Invited Panel - Featured Journal - IISE Transactions on Healthcare Systems Engineering,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2986,681,Data-driven Decision-making in Healthcare.,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2990,682,"Causal Discovery, Fairness, and Learning in Healthcare",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2994,683,Platform Operations and Retailing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+2999,684,"Recent Advances in Retailing, Healthcare and Manufacturing Research Domains",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3003,685,Recent Advancement in Virtual Care Integration,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3008,686,Supply Chain Finance,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3013,687,Pricing and Learning in Retail Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3016,688,Innovating the Supply Chain: Scientific Advancements at Chewy,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3019,689,Operations for the Future of Work,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3024,690,Doing good with OR: Responding to the needs of the vulnerable population,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3029,691,Life as a Ph.D. Student,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3034,692,Healthcare Analytics and Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3038,693,OR Applications to Improve the Quality of Life of Individuals with Disabilities,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3042,694,2024 MSOM Distinguished Fellow Talks,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3045,695,AI at Amazon Last-Mile,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3049,696,AI and Generative AI in Analytics Practice,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3054,697,"Randomized Rounding Approaches to Online Allocation, Sequencing, and Matching",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3055,698,ICS Award Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3058,699,Analytics in Digital Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3062,700,What Should We be Teaching Undergraduates in the Age of ChatGPT?,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3066,701,AI-human Interaction and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3071,702,AI and Digital Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3075,703,Advanced Approaches for Network Resilience and Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3080,704,Policy and Digital Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3084,705,Leveraging Machine Learning for Advanced Demand-Side Electricity Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3089,706,Advances in Data Science: From Description to Prediction and Decision-making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3094,707,Applications of Data Mining Techniques in Biomedical Data Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3097,708,Learning Control and Decision-Making of Dynamic Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3102,709,Optimization Methods for Grid Operations and Market Clearing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3106,710,Biodiversity Conservation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3109,711,Industrial Decarbonization I: Carbon Capture and Hydrogen,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3113,712,Application of Neural Networks in OR/OM,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3117,713,Machine Learning Meets Discrete Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3120,714,AI and ML for Marketplaces,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3123,715,Starting Academic Career for New and Prospective QSR Faculty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3127,716,Advancement in High-dimensional Data Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3131,717,Towards More Environmentally Friendly Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3135,718,Locational Analysis for Supply Chain Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3140,719,Empirical and Experimental Analysis of Online Retailers,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3145,720,Autonomous Driving and Transportation Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3152,721,2024 MAS Annual Awards,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3157,722,Matching Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3161,723,Selected Auctions & Market Design papers from the EC 2024 conference I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3165,724,Emerging Trends in Financial Risk Management and Market Influence,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3169,725,Radiotherapy and Cardiovascular Health,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3175,726,Supply Chain Risk Assessment,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3179,727,Quantitative Finance and FinTech,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3184,728,Topics in Decision-Making under Uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3188,729,Deep Learning Application in RM,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3192,730,Online Resource Allocation: New Models and Methods,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3196,731,Pricing Aspects of Platform Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3200,732,Advancements in Network Management and Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3204,733,Practical Applications of Decision Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3210,734,"Energy, Electricity Markets, and Sustainability",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3214,735,DAS Awards Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3217,736,Pricing and Revenue Management Problems in Supply Chain Networks,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3221,737,Optimization and Simulation Techniques for Industrial Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3226,738,COPT/Responsive.net,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3228,739,Advanced Bandit Algorithms and Optimization Techniques,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3232,740,TIMES Distinguished Speaker Award Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3234,741,Advances in Causal Inference and Predictive Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3239,742,Intersection of Machine Learning and Integer Programming,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3243,743,ONR Optimization Program Review: Applied Models and Algorithms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3247,744,Large Language Models and Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3251,745,Robust Optimization for Social Good,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3256,746,Algorithms for Robust Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3260,747,First-order Methods in Continuous and Stochastic Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3264,748,TSL Best Student Paper Award,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3268,749,Planning and Operations for Shared Mobility,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3272,750,"Mathematical Innovations in Curb Space Management, Pricing, and Service Operations",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3276,751,Aircraft and Crew Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3279,752,Improving Rail Yard Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3283,753,BOM Best Working Paper Competition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3288,754,Advancements in Graph Learning and Stochastic Process Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3293,755,Simulation Methods and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3298,756,Managing Organizations to Boost Productivity,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3303,757,Derivative-free Simulation Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3307,758,Innovative Approaches to Healthcare Experimentation and Inference,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3311,759,Sanjay and Panna Mehrotra Research Excellence Award Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3314,760,Decision-analytic Modeling for the Effective Management of Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3319,761,Supply Networks and Innovation Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3321,762,Data-Driven and Sustainable Mobility and Logistics System Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3326,763,Empirical Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3330,764,Control of Queueing Systems with Applications to Service and Production Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3334,765,Spatially Distributed Service Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3339,766,Information Design in Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3343,767,"Frontiers in Technology, Innovation, and Entrepreneurship",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3348,768,Towards Resilient and Equitable Infrastructure and Communities,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3353,769,MIF Paper Competition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3356,770,Healthcare and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3360,771,Enhancing Resilience: Strengthening Healthcare Systems for Preparedness and Response,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3365,772,Markov Lecture,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3367,773,Amazon Geospatial Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3371,774,INFORMS 2035: Where are we Going?,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3377,775,Measuring the Efficacy of Amazon’s Recommendation Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3378,776,Algorithmic and Economic Analysis on Digital Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3382,777,Machine Learning and Social Media Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3386,778,Managing Industry Advisory Boards,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3391,779,Human-AI Connection in Digital Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3397,780,Advancing AI: From Classification to Molecular Predictions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3402,781,Innovations in Machine Learning for Complex Data Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3406,782,Technology and Business,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3410,783,Advances in ACOPF,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3413,784,Learning and Optimization on Cyber-physical Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3416,785,Ethics in Action: Operationalizing Fairness in Algorithmic Decision-Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3421,786,Advanced Data Analytics for Energy Transition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3425,787,Optimization and Analytics for Grid Reliability and Resilience,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3429,788,Advances in Data-driven Controls for Renewable Dominated Grids,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3434,789,Power Systems Planning and Operation I: Integrating Multivariate Uncertainties,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3440,790,Recent Advances in Stochastic and Robust Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3444,791,Modern Results in Computational Statistics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3448,792,Omega Rho Keynote Steve Eppinger,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3449,793,"The Importance of Lived Experience for Better, Smarter OR Models to Disrupt Sex Trafficking",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3450,794,IFORS Distinguished Lecture,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3451,795,Recent Advances in Human – AI Interactions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3456,796,Navigating Career Pathways in Industry: Insights and Strategies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3461,797,Domain Knowledge in Learning Models: Relevance in Big Data Era,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3465,798,Advanced Statistical Models and Decision Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3470,799,Models for Corporate Decisions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3475,800,New Methods for Combinatorial Problems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3479,801,Advancements in Sensor and Data Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3482,802,AI Innovations in Business and Security,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3488,803,Equity and Fairness in Online Decision Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3493,804,Advanced Reinforcement Learning and Optimization Techniques,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3497,805,Data-driven Decisions: Insights and Impact Across Industries,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3501,806,Human-Centric Decision-Making: From Psychosis to Sports Data,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3505,807,Supply Chain Risk and Resilience,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3508,808,Financial Engineering and Technology,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3513,809,Innovative Applications in Revenue Management & Pricing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3517,810,Dynamic Assortment and Pricing Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3521,811,Learning and Incentives,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3525,812,"Optimization Under Uncertainty: Pricing, Inventory, and Learning",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3530,813,Solar PV Innovations and Impacts,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3535,814,Data-Driven Approach to Decision Support,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3539,815,Decision Analysis in Public Health and Biomedicine,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3543,816,Decision Analysis for an Equitable Energy Future,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3548,817,Digital Content and Platform Strategies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3551,818,Applications and Implications of Large Language Models,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3556,819,Gurobi/Stukent,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3558,820,Explainable Machine Learning for Knowledge Discovery,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3563,821,Rethinking Human-AI Interactions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3567,822,Smart Manufacturing Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3571,823,Topics in Integer Programming and Combinatorial Optimization 1,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3576,824,Optimization Software Session III,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3580,825,Recent Advances in First and Second Order Methods for Nonlinear Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3584,826,Multi-stage Optimization under Risk Measures,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3589,827,Recent Advance in Optimization Under Uncertainty: Theory and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3593,828,Data-driven Approaches in Reliability Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3596,829,Data Mining Society (DMS),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3599,830,Sustainable Operations in Urban Logistics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3604,831,Advancements in Marine Shipping Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3607,832,Resilience in Aviation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3610,833,Railway Freight Operations and Network Management Optimization and Modelling,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3614,834,Behavioral Decision-Making in Retail Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3618,835,"Stochastic Models and Optimization in Service Systems: Matching, Pricing, Scaling, And Planning",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3621,836,Recent Advances in Approximate Dynamic Programming,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3624,837,Capacity Planning for Amazon Customer Service Contact Center,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3629,838,Simulation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3633,839,Payment Models in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3637,840,Optimization in Health Systems and Policy Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3640,841,Advance Payment Model for Health,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3643,842,Empirical Retail Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3647,843,Retail Platforms and Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3651,844,Organ Transplantation 1,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3654,845,"Digital Marketplaces and Platforms, and Online Advertising",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3657,846,Retail Analytics: Space and Assortment Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3662,847,Supply Chain Finance and Fintech,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3665,848,Advances in Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3670,849,Workforce Development and Operations Research Models,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3674,850,Modeling and Optimization: Shaping an Equitable Future,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3679,851,Equity in Health Decision-Making: Navigating the Future Together,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3684,852,OR Applications for Medical Decision-making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3687,853,Amazon Warehouse Resource Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3692,854,What Does Our Past Tell Us About the Future,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3696,855,Social Media Dynamics and Data Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3700,856,Machine Learning in IS: Biases and Model Improvement,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3704,857,Unlocking the Digital Discourse: From Data to Insights,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3707,858,Community-Engaged and Equity-Forward Operations Research and Analytics II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3710,859,Enhancing Supply Chain and Operations Efficiency: AI-driven Inventory Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3714,860,Value Creation in Online Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3717,861,Innovations in AI and Digital Engagement,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3722,862,E-commerce and Supply Chain Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3726,863,Advances in Sustainable Energy Systems Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3731,864,"Integration of Human, Knowledge and Systems for Quality",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3736,865,Optimization and Surrogate Methods for Black-Box Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3740,866,Advances in Machine Learning and Decision Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3744,867,Energy Systems Integration,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3749,868,Advances in Sustainable Operations From Social and Environmental Perspectives,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3753,869,Industrial Decarbonization III: Computational Perspectives for Promoting Industrial Decarbonization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3757,870,Decomposition Methods in Network Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3761,871,Redistricting,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3764,872,Preparing Interdisciplinary Leaders: Re-Imagine Your Department As A Place For Educating Future Operations Research Leaders Who Can Tackle Complex And Nuanced Problems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3765,873,Data Analytics and Optimization for Smart Industry,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3770,874,Computational/Statistical Methods for Uncertainty Quantification: Part I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3774,875,Tensor Data Analysis for Advanced Clustering and Process Monitoring,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3779,876,Optimization and Interpretability in AI,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3784,877,Exploring Equilibrium in Games,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3789,878,Optimization and Game Theory in Power Systems and Sports,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3794,879,Optimization Approaches for Machine Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3799,880,Innovative AI and Strategic Decisions: From NFTs to Enterprise Security,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3804,881,Operating Online Platforms in the New Age,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3808,882,Opioid Crisis and Health Systems Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3814,883,Design and Optimization for Transit Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3819,884,Methods for Traffic Monitoring,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3825,885,Agricultural Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3831,886,Machine Learning in Finance II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3834,887,Recent advances in Choice Modeling,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3838,888,Design and Operation of Online Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3842,889,Data Science and Artificial Intelligence for Business,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3846,890,Human-Algorithm Interactions in Behavioral Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3850,891,Economic Decision-Making: Games and Simulations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3854,892,Innovative Decision-Making in Dynamic Environments: Trends and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3859,893,Decision Models for Network Security and Resilience,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3864,894,Emerging Technology and Decision Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3868,895,AI-Driven Insights: From Operations to Financial Decision Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3872,896,Advanced Decision-Making and Optimization Techniques,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3878,897,Provalis/AMPL,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3880,898,Digital Engagement and Innovation in Education and Social Networks,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3884,899,Product and Process Innovation in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3888,900,Novel Analytics and Machine Learning Approaches with Manufacturing Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3894,901,Topics in Integer Programming and Combinatorial Optimization 2,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3899,902,Submodularity and Conic Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3903,903,Advances in Non-Smooth Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3907,904,Efficient Methods for Large-scale Optimization Using Inexactness II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3910,905,Mitigating Distributional Ambiguity in Stochastic Programming,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3914,906,Optimization and Modeling in Industrial Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3919,907,TSL Mid-Career and Lifetime Achievement Awards,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3921,908,Network Design and Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3924,909,Advancements in Ride-Sharing System Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3927,910,Surface and Airport Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3932,911,Green House Gas Reduction in the North American Railway Industry,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3936,912,Behavioral Perspective of Operations: Adapting to a Changing World,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3940,913,Incentives and Information Design in Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3944,914,Rare Events and Large Deviations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3948,915,"Microeconomics, from a Computer Science Perspective",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3952,916,Service Science Best DEIJ/Cluster Paper,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3957,917,Critical issues in Pharmaceutical Value Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3961,918,Models for Hospital Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3966,919,Analytics Applications in Hospital Emegency Care,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3970,920,Operations Management and Marketing Interface,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3974,921,Emerging Topics in Platform Operations and Retail,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3978,922,Organ Transplantation 2,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3982,923,Technology and Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3987,924,Research on Innovative Service Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3991,925,Topics in Sustainability and Food Supply Chain,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+3996,926,Diverse Topics on Responsible Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4000,927,Analytics for the Detection and Disruption of Illicit Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4004,928,Optimization for Real People,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4009,929,Optimization and AI for Precision Health of Dynamic Diseases,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4014,930,Sequential Decision Making and Reinforcement Learning Applications in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4018,932,Supply Chain Planning and Execution,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4023,933,Towards Pedagogical Excellence in the Era of Growing Diversity and Technological Mediation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4026,934,An Introduction to Decision Diagrams for Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4027,935,Emerging Topics in IS and OM,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4030,936,Data Analysis and Optimization in Communication and Social Networks,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4035,937,K-12 Outreach Panel: Collaboration Across Institutions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4041,939,Innovations in AI for Optimization and Control,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4046,940,Strategies in ESG and Contractual Decisions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4050,941,SpORts II: SpORts Betting and Social Impact,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4054,942,Optimization and Machine Learning in Power Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4059,943,Data Assimilation for Simulation Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4063,944,Advancements in Medical Data Analysis and Intervention,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4067,945,Funding Opportunities on Data Science Research,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4070,946,"Market Design, Analysis, and Optimziation of Zero-carbon Electricity Market",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4074,947,Analytical Methods for Sustainable Manufacturing Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4079,948,Energy Systems Modeling and Optimization I: Policy-Enabling Models in the Energy Sector,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4084,949,AI and Optimization for Decision-Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4087,950,Computational Integer Programming,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4091,951,Empirical Research in Service Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4094,952,Computational/Statistical Methods for Uncertainty Quantification: Part II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4097,953,Data Science and AI for Informing Decisions in Mission Critical Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4100,954,Optimization for Smart Grids,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4104,955,ESG Strategies and Corporate Performance,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4109,956,Advances in Reinforcement Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4114,957,Innovative Approaches in Decision Making and Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4119,958,Cybersecurity Impacts and Strategies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4124,959,Robust and Ethical Market Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4129,960,Enhancing Health Outcomes and Performance Through Integration and Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4133,961,Operational Planning of Emerging Vehicle Technologies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4135,962,Intermodal and Sustainable Freight Logistics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4139,963,Circular Economy and Sustainable Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4142,964,Financial Decision Making and Risk Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4146,965,Data Science for Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4151,966,Advances in Revenue Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4156,967,Socially Responsible Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4160,968,Emerging Technologies in Online Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4165,969,New Methods for Inventory Policies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4169,970,Future Directions in ML and Optimization for Resilience,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4174,971,Decision Science in Transportation Research,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4178,972,Data-Enabled Decision-Making in Energy Systems and Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4183,973,Optimizing Industrial and Construction Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4188,974,Bike Sharing and Urban Transportation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4193,975,FICO/Amazon,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4195,976,Market Dynamics and Financial Modeling,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4199,977,Sourcing Innovation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4203,978,Advanced Modeling and Optimization in Transportation and Manufacturing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4208,979,Sequential Decision Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4212,980,Advances in Optimization for Machine Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4217,981,Recent Advances of Interior Point Methods for (Non)linear Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4222,982,Reformulations and Solution Approaches for Mixed-Integer Nonlinear Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4227,983,Stochastic Programming with Endogenous Uncertainty.,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4231,984,Advancements in Urban Transit Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4236,985,Middle Mile Optimization and Service Network Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4240,986,Crowdsourced Logistics Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4245,987,Nonlinear Learning and Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4249,988,Drone Routing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4254,989,Optimizing Service Networks and Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4258,990,Feedback and Information in Human-Algorithm Interactions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4262,991,Advances in Queueing Theory,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4266,992,Probability on Networks,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4270,993,Chang-Han Rhee session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4274,994,Emergency Services Efficiency and Workload Balance,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4278,995,Empirical Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4282,996,Simulation Modeling in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4286,997,Precision in Practice: Data Insights in Healthcare Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4289,998,Innovative Strategies for Efficient and Sustainable Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4293,999,Scheduling of Manufacturing and Service Processes,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4297,1000,Stochastic Models for Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4300,1001,Recent Advances in Data-Driven Decision-Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4304,1002,Leveraging AI in Behavioral and Service Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4309,1003,Sustainability in the Food Supply Chain,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4313,1004,Empirical Research on Operational Efficiency and Performance,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4317,1005,Use-inspired analytics and models tackling Human Trafficking,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4323,1006,Advancements in Quantum Computing and Collaboration,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4328,1007,Causal Inference,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4333,1008,Clinical Decision Making for Chronic Disease,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4337,1010,Transportation Network Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4341,1011,Healthcare - Radiotherapy Cancer Treatment Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4346,1012,Retail Price Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4350,1013,Generative AI and Creative Problem Solving,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4354,1014,Shaping Perceptions and Identities in Social Media,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4359,1015,To Accredit or Not To Accredit:  That is the Question,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4364,1016,Machine Learning in Decision-Making: Strategies and Interpretability,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4369,1017,Personalized and Fair AI: Advances in Federated Learning and LLMs,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4375,1018,Mitigating Bias and Enhancing AI Collaboration,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4378,1019,SpORts III,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4382,1020,Stochastic Resources Bidding in Flexibility Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4386,1021,Applications of Machine Learning and AI for Physical and Mental Health,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4390,1022,High-Dimensional Data Analytics for Complex Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4394,1023,Transforming Education Through Data Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4398,1024,Equity in the Energy Transition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4404,1025,Sustainable Transportation Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4408,1026,Energy Systems Modeling and Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4413,1027,Optimization Model Analysis and Debugging,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4417,1028,Federated Learning and Optimization: I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4421,1029,Tuesday Poster Competition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4435,1030,Tuesday Poster Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4544,1031,APS Poster Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4578,1032,Service Operations and Supply Chain Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4582,1033,Advanced Data Analytics on Reliability and Maintenance,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4587,1034,Advanced Machine Learning for Complex Physical Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4591,1035,Survival Analysis and Optimization Techniques,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4595,1036,Sustainable Practices in Fashion and Commerce,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4599,1037,Stochastic Models and Networks,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4603,1038,Optimizing Restaurant Industry Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4607,1039,On Security and Rescue Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4612,1040,Data-Driven Mechanisms and Allocation Algorithms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4617,1041,Innovative Strategies for Vaccine Distribution and Disease Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4622,1042,Data-Driven Crisis and Disaster Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4627,1043,Optimization for Freight Transportation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4631,1044,Strategic Innovations in Logistics and Supply Chain Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4636,1045,Optimization and Pricing Models for Digital and Retail Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4640,1046,Analysis of Algorithms for Pricing and Product Ranking,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4643,1047,Innovation in Revenue Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4647,1048,Online Learning in Games and Auctions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4651,1049,Advances on Choice Modeling and Applications in RMP,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4655,1050,Humanitarian Logistics and Disaster Preparedness,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4658,1051,Integrating Emerging Technologies for Sustainable Transportation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4662,1052,Generative AI for Decision-Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4666,1053,Behavioral Decision Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4671,1054,Global Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4674,1055,Adaptive Strategies in Experimentation and Logistics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4679,1056,CoCalc/Amazon,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4681,1057,Behavioural Queueing Science and Service Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4684,1058,Exploring Challenges for Innovation Success,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4689,1059,Optimizing Data Center Operations and Sustainability,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4694,1060,Warm Starting for Mixed-Integer Linear Programming,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4698,1061,Large Scale Supply Chain Network Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4702,1062,Promises and Challenges of Nonconvex Optimization in Machine Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4707,1063,Distributional Robustness,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4711,1064,Methods and Applications in Stochastic and Chance-Constrained Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4714,1065,Evolution and Impact in Cyber-Social Environments,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4719,1066,Advancing Innovations in Mobility: International Collaboration and Technological Innovations in Transportation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4725,1067,Behavioral-informed Analytics and Decision-Making for Urban Transportation Systems 2,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4729,1068,Optimization and Learning in Recommender Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4733,1069,Air Navigation Service Provision and Capacity Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4737,1070,AAS Distinguished Speaker,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4738,1071,Emerging Topics in Behavioral Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4741,1072,Network Data Insights: Algorithmic Approaches,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4746,1073,Experimentation With Interference,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4750,1074,Generative AI for Decision-making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4754,1075,Optimizing Healthcare and Equity through Location Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4758,1076,Learning and Optimizing for Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4762,1077,Fair Decision-making in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4767,1078,Sequential Decision Making in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4770,1079,Adaptive Experimental Design in Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4775,1080,Data Collection and Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4779,1081,MSOM: Analytics for Social Goods,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4783,1082,Unveiling Complexity: Simple Algorithms for Complex Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4788,1083,Social Responsibility and Sustainability,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4792,1084,OM Research on Uplifting Low-income Communities,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4797,1085,Sustainability and Business Model Innovation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4801,1086,Disaster Response Operations and Social Responsibility,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4805,1087,Advancements in Digital Twin Technologies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4808,1088,Revolutionizing Healthcare: Innovations in Analytics and Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4812,1089,Pengyi's session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4815,1090,Energy-Aware Business Practices,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4820,1091,Inventory placement and Inbound Network Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4824,1092,Professors and Their Startups: Reflection on Academic Entrepreneurship,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4826,1093,Digital Transformation in Transportation Systems: Navigating User Behavior and System Efficiency,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4827,1094,Platform Design in the Digital Era,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4831,1095,Social Media and Digital Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4834,1096,"Data-driven Decision-making: Personalization, Practicality, Perspicuity",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4837,1097,AI Application in Education,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4841,1098,AI & Robotics: Impact on Perceptions and Innovation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4844,1099,Advancements in Statistical Methods and AI,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4849,1100,SpORts I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4854,1101,Electricity Storage,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4858,1102,Artificial Intelligence and Big Data Applications in Global Operations and Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4861,1103,Advances in Data-Driven Decision-Making in Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4865,1104,Recent Advances in Multi-Agent and Preference-Based Reinforcement Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4868,1105,Net-Zero Emissions Energy Systems: Optimization Methods,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4873,1106,Analysis Toward Net-Zero Transportation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4876,1107,Energy System Modeling and Optimization V: ML-based Multi-Energy System Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4880,1108,Advances in Decomposition Algorithms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4884,1109,Federated Learning and Optimization: II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4888,1110,Explainable AI for prognostics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4892,1111,Smart Manufacturing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4895,1112,Service Science Best Student Paper I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4898,1113,Service Science Best Student/Cluster Paper II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4901,1114,Service Science Best Cluster Paper I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4905,1115,Service Science Best Cluster Paper II,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4909,1116,Global Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4914,1117,AI and Optimization Techniques in Forecasting and Security,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4918,1118,Innovations in Market Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4922,1119,Advances in Queueing Theory and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4925,1120,Advances in Optimization Methods for Inventory Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4930,1121,Drone Based Operations and Delivery Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4934,1122,Advanced Inventory and Supply Chain Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4938,1123,Advancements in Grocery Retail Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4943,1124,Frontiers in Data-driven Revenue Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4948,1125,Electricity Market Pricing focusing on the impact of uncertainties and competition on day-ahead market pricing efficiency,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4952,1126,Inventory Replenishment in Marketplaces,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4956,1127,Learning and Pricing in Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4960,1128,On Recommendation Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4963,1129,Strategy in Mechanism Design,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4966,1130,Public Health Applications in Decision Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4970,1131,"Analytics in Action: Decision Excellence, Risk Modeling, and Pedagogy",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4973,1132,Supply Chain Learning and Sourcing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4976,1133,Logistics and Network Optimization Challenges,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4982,1134,JMP/SAS,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4984,1135,Market Dynamics and Predictive Modeling,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4988,1136,Emerging Strategies in Platform Competition and Innovation Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4991,1137,Service Systems Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4995,1138,Computational Integer Optimization and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+4999,1139,Randomized Methods for Combinatorial Scientific Computing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5003,1140,Advances in Data-Driven Distributionally Robust Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5007,1141,Recent Advancements in Accelerated Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5011,1142,Data-driven Stochastic Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5015,1143,Emerging Trends in Mathematical Modeling and Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5020,1144,"Network Modeling for Sustainable Mobility: Equity, Efficiency, and Multimodality",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5025,1145,Markets and Algorithms for Sustainable Transportation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5029,1146,Sustainable Transportation Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5033,1148,Optimization and Analysis in Complex Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5037,1149,Behavior Study in Supply Chain Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5040,1150,"Graphs and Networks: Bridging Theory and Practical Applications in Causal Inference, Experimentation, Community Detection, and Ranking Aggregation",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5044,1151,Flexibility Design and Demand Fulfillment for Service Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5048,1152,Drift Methods for Stochastic Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5052,1153,Healthcare Innovation and Collaboration,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5056,1154,Applications of Mathematical Models in Health and Public Policy,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5061,1155,Innovative Modeling to Inform Infectious Disease Prevention and Control,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5065,1156,Healthcare Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5069,1157,Public Health Analytics and Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5074,1158,New Topics in Dynamic Assignment,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5078,1159,Empirical Perspectives on Healthcare Challenges,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5082,1160,Fairness and Matching in Service Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5087,1161,Data Analytics and Technology in Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5091,1162,Innovative Approaches to Sustainable Transportation and Workforce Diversity,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5095,1163,Sustainability through Supply Chain Innovations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5098,1164,Applications of Operations Research and Analytics in Elections,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5102,1165,Advanced Optimization and Modeling Techniques in Operations Research,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5106,1166,System Medicine and AI: Transforming Healthcare Landscapes,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5110,1167,Data-Driven Healthcare Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5114,1168,AI and Environmental Sustainability Innovations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5119,1169,Resilient and Equitable Power Grid Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5125,1170,OR in the Utilities Industry,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5128,1171,Role of Influencers in Social Media,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5133,1172,AI for Social Good,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5136,1173,Machine Learning and Game Theory in Policy and Sports,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5139,1174,Artificial Intelligence in Banking,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5144,1175,Adoption and Applications of AI Agents Featuring ML Algorithms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5148,1176,AI Innovations: Text Interaction to Trustworthy Decisions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5152,1177,"Innovative Approaches in AI, Supply Chains, and Multi-Agent Systems",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5156,1178,Sports IV,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5161,1179,Latest Practices of Stochastic and Robust Optimization for Renewable Energy,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5165,1180,AI and Data Science for Smart Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5169,1181,Advances in Quantitative Methods for Business Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5174,1182,Data Analytics and Machine Learning in Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5179,1183,Heat Decarbonization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5183,1184,Operational and Data-Centric Perspectives on Sustainability,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5189,1185,Power Systems Operations and Planning V: Recent Advances,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5192,1186,Learning and Optimization Techniques for Uncertain Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5196,1187,Federated Learning and Optimization: III,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5200,1188,Edelman Reprise: Molslinjen,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5201,1189,OR/AI Applications in the (Bio)Pharmaceutical Industry: A Vision and Future Research Directions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5202,1190,AI-Human Interation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5204,1191,"Complex System Modeling, Monitoring, and Decision-making",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5208,1192,Theoretical Perspectives and Statistical Approaches to Robust Inference,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5212,1193,Innovative Optimization Techniques and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5217,1194,Resource Management in Services,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5222,1195,Advances in Machine Learning Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5225,1196,Advancements in Supply Chain Resilience and Performance,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5229,1197,Accelerated Computing for Mathematical Programming,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5234,1198,Operations and Revenue Management for AI Development,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5237,1199,Innovative Approaches to Inventory Management and Sustainable Sourcing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5242,1200,New Topics in Grocery Retailing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5247,1201,Dynamic Models in Revenue Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5251,1202,Network Design/Revenue Management and Platform Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5255,1203,New Applications and Methodology in Pricing and Inventory Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5259,1204,Empirical and Behavioral Insights in Revenue Management and Pricing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5263,1205,Pricing and Market effects,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5268,1206,Emerging Topics in Decision Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5272,1207,Informing AI Ethics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5277,1208,Stochastic Analysis of Energy Power Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5283,1209,AI and Technology for Humanitarian Logistics and Supply Chain Resilience,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5286,1210,Port Operations and Freight Logistics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5291,1211,Embracing Uncertainty: Digital Workspaces and Resilience Strategies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5294,1212,Workplace Behavior and Organizational Dynamics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5299,1213,Innovative Mechanisms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5303,1214,Innovative Operations for Social Goods and Sustainability,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5308,1215,Computational Integer Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5313,1216,Computational Nonlinear Programming,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5315,1217,Data-Driven Robust Optimization Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5319,1218,Recent Advances in First-Order Methods and ADMM.,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5323,1219,Learning and Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5327,1220,Lagrangian Methods and Optimization Techniques,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5329,1221,Modeling and Techno-economic Analysis for Vehicle Grid Integration and Vehicle-to-Everything (V2X),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5332,1222,Modeling and Optimizing Infrastructure for Freight Transportation Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5335,1223,Innovations in Urban Transportation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5340,1224,"Aerospace Design, Ethics and Operations with AI/ML",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5344,1225,Advanced Computational and Algorithmic Approaches for Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5349,1226,Hospital Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5353,1227,Stochastic Processing and Matching Networks: Recent Developments,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5357,1228,Frontiers in Language Models and Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5360,1229,Reinforcement Learning Theory,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5364,1230,Appointment Scheduling in Healthcare: From Patients to Physicians,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5368,1231,Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5371,1232,Towards Resilient Pharmaceutical Supply Chains: Analytical Models for Addressing Drug Quality and Shortage Issues,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5375,1233,Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5379,1234,"EVs -- Adoption, Operations and Interface with the Utility Grid",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5383,1235,Collaboration in Supply Chains with Channel Partners and Competitors,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5387,1236,Care Access and Delivery,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5391,1237,Data-Driven Methods to Human - Artificial Intelligence Interactions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5394,1238,Empirical Research on Marketplaces,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5398,1239,Food Supply Chain Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5402,1240,Advancing Sustainability and Ethics in Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5406,1241,Power Systems Planning and Operation II: Cutting Edge Strategies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5411,1242,Recent Advances in Stochastic Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5416,1243,Advanced Analytics for Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5421,1244,OR Applications in Healthcare Delivery Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5424,1245,Strategies for Climate Mitigation and Sustainability,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5427,1246,Innovative Approaches for Dynamic Data Analysis and Control,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5431,1247,AI and Game Theory Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5434,1248,Online Marketplaces and Incentives,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5439,1249,AI Development and Business Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5442,1250,Graphs and Algorithms in Social Media: Theories and Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5444,1251,Applying Artificial Intelligence Models to Text Mining for Leveraging Business Value,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5447,1252,Data Integration for Learning and Decision-Making,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5452,1253,Innovative Applications in Healthcare and Wellness,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5456,1254,AI and Analytics in Operations and Logistics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5460,1255,AI-Driven Cybersecurity,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5462,1256,Electric Reliability and Resilience,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5466,1257,Data Analytics in Manufacturing Industry,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5470,1258,Applications on Data Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5475,1259,Data Mining Best Paper Competition (General Track),5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5479,1260,Decision Support for the Path to Net-Zero Emissions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5483,1261,Energy Justice II: Equity in Energy Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5486,1262,Industrial Decarbonization II: Optimizing Hydrogen Use to Decarbonize the Transportation and Industrial Sectors,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5490,1263,Simulation & Analytics for Sustainable and Resilient Urban Networks - Session 1,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5494,1264,Optimization and Robust Linear Models,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5499,1265,Integrating AI in Healthcare Operations to Enhance Service Delivery,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5503,1266,Modeling and Online Monitoring Techniques with Health Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5507,1267,Point Cloud Analytics for Advanced Manufacturing Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5511,1268,Data-Driven Urban and Social Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5514,1269,Optimization and Reliability in Engineering Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5518,1270,Advancements in Edge Computing and Networks,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5521,1271,Insights into Food Supply Chain and Food Insecurity,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5525,1272,Assortment Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5531,1273,Assortment Planning with Multiple Warehouses,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5535,1274,Supply Chain Models for Ecommerce,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5540,1275,Online Retail Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5544,1276,Innovative Applications in Revenue Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5548,1277,Revenue Management: Sustainable and Fair Approaches,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5553,1278,Advances in (Network) Revenue Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5556,1279,Optimization of Electric Power Systems Under Decision-Dependent Uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5561,1280,Energy Systems Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5565,1281,Incentive Design for Multi-agent Agent Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5570,1282,Advancements in Healthcare and Service Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5573,1283,Solutions for Low-Carbon Energy Transition,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5577,1284,Advancements in Neural Network Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5582,1285,Advancements in Transportation and Logistics Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5586,1286,Emerging Topics for Electric Vehicles,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5591,1287,Innovative Approaches in Financial Market Analysis and Forecasting,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5595,1288,Advances in Sequential Decision-Making with E-Commerce Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5599,1289,Pricing and Other Considerations in Business Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5602,1290,Approximation Algorithms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5606,1291,Verification of Decision-Making Algorithms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5611,1292,Advances in Robust and Risk-Sensitive Markov Decision Processes,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5614,1293,Recent Advances in Global Stochastic Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5619,1294,Stochastic Integer Programming with Applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5623,1295,Advanced Scheduling and Optimization Techniques in Value Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5627,1296,Platforms Operation in Urban Transportation,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5631,1297,Modeling and Optimization in Transportation and Mobility Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5635,1298,Advances in Delivery Service Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5639,1299,AI-Driven Healthcare and Public Engagement,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5642,1300,Advancements in Medical Technology and Healthcare,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5648,1301,Innovations in Healthcare Service Delivery,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5651,1302,Interacting Particle Systems and Queueing Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5655,1303,Learning and Stochastic Control,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5659,1304,Scheduling and Decision-Making in Stochastic Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5664,1305,Advances in Medical Decision Support,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5668,1306,New Advances in Organ Transplantation Modeling,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5672,1307,Decision-Making in Healthcare Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5676,1308,Optimizing Patient Flow and Readmission Risk in Healthcare Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5680,1309,Learning and Experimentation in Markets and Platforms,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5685,1310,Empirical Research on Sustainability in the Auto Industry and Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5688,1311,Emerging Topics in Healthcare Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5692,1312,Empirical Research in Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5694,1313,Optimization for Natural Resource Extraction and Processing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5698,1314,Capacity management under supply and demand uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5702,1315,Food Waste,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5706,1316,Food Waste Reduction in Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5709,1317,Optimizing Aviation and Air Mobility,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5714,1318,Incorporating AI into Healthcare Delivery,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5718,1319,Advances in healthcare: Methods and applications,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5723,1320,Planning and Operations of Power Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5729,1321,Optimizing Electric Vehicle Charging Infrastructure,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5733,1322,Application of Machine Learning Methods,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5737,1323,Platform Design and Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5739,1324,The Future of AI,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5743,1325,Persuasion and Opinion Dynamics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5747,1326,Causal Inference and Empirical Topics in (Digital) Markets,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5751,1327,Enhancement of Object Detection,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5754,1328,AI and Optimization in Manufacturing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5759,1329,AI in Action: Enhancing Decision-Making and Collaboration,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5765,1330,Hotelling Medal Lecture,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5767,1331,Harnessing Machine Learning and Advanced Optimization for Power System Planning in Developing Countries,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5771,1332,"Navigating Challenges in Statistical Inference and Decision-Making: Adaptive Experiments Design, Testing Complex Hypotheses, Policy Optimization, and Robust Mendelian Randomization",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5775,1333,Bayesian Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5779,1334,Scaling ML applications with Federated Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5781,1335,Net-Zero Emissions Energy Systems: Multi-objective Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5784,1336,"Energy Justice I: Building Back Better, Perspectives on Energy Equity in the Just Transition",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5787,1337,Online and Adaptive Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5791,1338,Optimization Modeling Software I,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5795,1339,Optimization Algorithms and Applications in Manufacturing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5798,1340,Reimagining a Healthier Future with Sustainable Supply Chains,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5799,1341,Platform-Based Innovation in Service Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5803,1342,Decision Making for Advanced Industrial Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5808,1343,Domain-Informed Machine Learning for Smart Manufacturing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5812,1344,Emerging Topics in Computational Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5815,1345,Advanced Methods in Optimization and Prediction,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5819,1346,Strategies in Revenue and Payment Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5822,1347,Algorithms/Mechanisms for New Priorities in Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5826,1348,Advancing Online Marketplaces: A Data-Driven Approach,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5830,1349,Optimization of Storage and Warehouse Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5832,1350,Blockchain Innovations in Supply Chain Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5834,1351,Technological Advances in E-Commerce and Retail,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5839,1352,RMP Session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5843,1353,Implications of Uncertainties and Market Power in Electricity Market Pricing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5847,1354,Innovative Platform Strategies,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5850,1355,Novel Applications of Pricing and Demand Modeling,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5854,1356,Energy Power Systems Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5858,1357,Applications of Federated and Distributed Learning Frameworks,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5863,1358,Health Care Resource Planning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5867,1359,Energy Consumption and Decarbonization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5872,1360,Optimizing Supply Chain and Production Processes,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5877,1361,Optimizing Delivery and Logistics with AI and Crowdsourcing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5881,1362,Economic Strategies for a Sustainable Future,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5884,1363,Causal Inference and Machine Learning in OM,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5888,1364,Yichun Hu session,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5892,1365,Optimization of Layout and Stocking,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5896,1366,Vehicle Routing Problems & Co.,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5900,1367,Interacting Particle Systems and Stochastic Networks,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5904,1368,Learning for Contextual Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5908,1369,Advances in Nonlinear Continuous Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5911,1370,Applications of Optimization in Statistics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5915,1371,Optimized Routing and Travel Time Analysis,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5920,1372,Performance Modelling of Intelligent Vehicle Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5925,1373,Artificial Intelligence in Logistics/Towards Fair Transportation Planning Under Uncertainty,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5930,1374,Equity and Optimization in Healthcare Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5934,1375,Advances in Vehicle Routing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5938,1376,Strategic Behavior in Queueing and Service Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5942,1377,Data-Driven Healthcare Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5947,1378,Information Design for Incentive-Aware Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5952,1379,"Theoretical Advances in Networks, Dynamics and Inference",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5956,1380,Advances in Deep Learning Theory,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5960,1381,Business Strategy,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5964,1382,From Data to Action: Analytics in Public Health,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5968,1383,Data-driven Analytics and Decision-Making in Manufacturing,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5972,1384,Healthcare Systems: Mechanism Design and Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5977,1385,"E-commerce Order Fulfillment: Matching, Inventory Replenishment and Demand Spillover",5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5981,1386,Queueing Applications for Service Operations,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5985,1387,Advances in Machine Learning and Optimization,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5991,1388,Advancements in Medical Decision Support Systems,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+5995,1389,Advances in Operations Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+6000,1390,Environmental Sustainability and Social Responsibility in Supply Chain,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+6004,1391,Diversity and Fairness in High-stakes Decisions,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+6008,1392,Relationship between Supply Chain Network Characteristics and its Resilience,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+6012,1393,Solutions to Build Climate Resiliency,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+6016,1394,Optimizing Decision Making in Healthcare Delivery,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+6020,1395,Advances in Healthcare Analytics,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+6024,1396,Reinforcement Learning,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
+6028,1397,Recent Development in Revenue Management and Supply Chain Management,5/19/2024  11:00:00 PM,5/19/2024  12:00:00 PM
